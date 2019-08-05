@@ -74,7 +74,7 @@
 		{ "predicate": {"damaged": 1, "damage": 0.268}, "model": "item/custom/vehicles/hp-front2yellow"},
 		{ "predicate": {"damaged": 1, "damage": 0.272}, "model": "item/custom/vehicles/mid1yellow"},
 		{ "predicate": {"damaged": 1, "damage": 0.2749003984063745}, "model": "item/custom/vehicles/mid2yellow"},
-		{ "predicate": {"damaged": 1, "damage": 0.2788844621513944}, "model": "item/iron_hoe69"},
+		{ "predicate": {"damaged": 1, "damage": 0.2788844621513944}, "model": "item/custom/vehicles/hp-atis"},
 		{ "predicate": {"damaged": 1, "damage": 0.2828685258964143}, "model": "item/iron_hoe70"},
 		{ "predicate": {"damaged": 1, "damage": 0.28685258964143423}, "model": "item/iron_hoe71"},
 		{ "predicate": {"damaged": 1, "damage": 0.2908366533864542}, "model": "item/iron_hoe72"},
