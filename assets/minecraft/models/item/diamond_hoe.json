@@ -76,8 +76,11 @@
 		{ "predicate": {"damaged": 1, "damage": 0.0441741357234315}, "model": "item/mcamusement/hoe_snowcart"},
 		{ "predicate": {"damaged": 1, "damage": 0.04481434058898848}, "model": "item/mcamusement/hoe_splashboat"},
 		{ "predicate": {"damaged": 1, "damage": 0.045454545454545456}, "model": "item/mcamusement/hoe_waterwheel"},
-		{ "predicate": {"damaged": 1, "damage": 0.046094750320102434}, "model": "item/mcamusement/hoe_dlsign"},
-		{ "predicate": {"damaged": 1, "damage": 0.046734955185659406}, "model": "item/mcamusement/hoe_dwsign"},
+		{ "predicate": {"damaged": 1, "damage": 0.046094750320102434}, "model": "item/mcamusement/hoe_gun"},
+		{ "predicate": {"damaged": 1, "damage": 0.046734955185659406}, "model": "item/mcamusement/hoe_mickeykey"},
+		{ "predicate": {"damaged": 1, "damage": 0.047375160051216385}, "model": "item/diamond_hoe"},
+		{ "predicate": {"damaged": 1, "damage": 0.04801536491677336}, "model": "item/diamond_hoe"},
+		{ "predicate": {"damaged": 1, "damage": 0.04865556978233034}, "model": "item/diamond_hoe"},
 		{ "predicate": {"damaged": 1, "damage": 0.999359795134443}, "model": "item/hoe_"}
 	]
 }
