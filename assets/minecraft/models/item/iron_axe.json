@@ -63,7 +63,7 @@
 		{ "predicate": {"damaged": 1, "damage": 0.224}, "model": "item/custom/hats/hp-millenialpinkheadband"},
 		{ "predicate": {"damaged": 1, "damage": 0.228}, "model": "item/custom/hats/hp-teamcaptain"},
 		{ "predicate": {"damaged": 1, "damage": 0.232}, "model": "item/custom/hats/hp-trackpack"},
-		{ "predicate": {"damaged": 1, "damage": 0.23600000000000002}, "model": "item/iron_axe"},
+		{ "predicate": {"damaged": 1, "damage": 0.23600000000000002}, "model": "item/custom/hats/thesammyhat"},
 		{ "predicate": {"damaged": 1, "damage": 0.24}, "model": "item/iron_axe"},
 		{ "predicate": {"damaged": 1, "damage": 0.244}, "model": "item/iron_axe"},
 		{ "predicate": {"damaged": 1, "damage": 0.248}, "model": "item/iron_axe"},
