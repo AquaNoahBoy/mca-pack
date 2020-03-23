@@ -2,7 +2,7 @@
 	"textures": {
 		"particle": "blocks/particle",
 		"texture": "blocks/texture",
-		"voxels_palette": "items/paintbrush"
+		"voxels_palette": "items/custom/paintbrush"
 	},
 	"elements": [ 	 
 		{
