@@ -80,6 +80,6 @@
 		{ "predicate": {"damaged": 1, "damage": 0.047375160051216385}, "model": "item/diamond_axe"},
 		{ "predicate": {"damaged": 1, "damage": 0.04801536491677336}, "model": "item/diamond_axe"},
 		{ "predicate": {"damaged": 1, "damage": 0.04865556978233034}, "model": "item/diamond_axe"},
-		{ "predicate": {"damaged": 1, "damage": 0.999359795134443}, "model": "item/"}
+		{ "predicate": {"damaged": 1, "damage": 0.999359795134443}, "model": "item/diamond_axe"}
 	]
 }

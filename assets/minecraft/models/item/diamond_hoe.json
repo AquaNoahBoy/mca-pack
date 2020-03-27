@@ -6,7 +6,7 @@
 	"overrides": [
 		{ "predicate": {"damage": 0}, "model": "item/diamond_hoe" },
 		{ "predicate": {"damaged": 1, "damage": 0.0006402048655569782}, "model": "dl/alicecart"},
-		{ "predicate": {"damaged": 1, "damage": 0.0012804097311139564}, "model": "dca/"},
+		{ "predicate": {"damaged": 1, "damage": 0.0012804097311139564}, "model": "item/diamond_hoe"},
 		{ "predicate": {"damaged": 1, "damage": 0.0019206145966709346}, "model": "dca/ic1"},
 		{ "predicate": {"damaged": 1, "damage": 0.002560819462227913}, "model": "dca/ic2"},
 		{ "predicate": {"damaged": 1, "damage": 0.003201024327784891}, "model": "dca/ic3"},
@@ -80,6 +80,6 @@
 		{ "predicate": {"damaged": 1, "damage": 0.047375160051216385}, "model": "item/diamond_hoe"},
 		{ "predicate": {"damaged": 1, "damage": 0.04801536491677336}, "model": "item/diamond_hoe"},
 		{ "predicate": {"damaged": 1, "damage": 0.04865556978233034}, "model": "item/diamond_hoe"},
-		{ "predicate": {"damaged": 1, "damage": 0.999359795134443}, "model": "item/"}
+		{ "predicate": {"damaged": 1, "damage": 0.999359795134443}, "model": "item/diamond_hoe"}
 	]
 }
