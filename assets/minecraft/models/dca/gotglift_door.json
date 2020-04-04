@@ -1,0 +1,247 @@
+{
+	"credit": "Made by Sean S.",
+	"textures": {
+		"7": "block/blast_furnace_top",
+		"particle": "block/gray_concrete"
+	},
+	"elements": [
+		{
+			"from": [4.75, 5.5, 7.75],
+			"to": [11.25, 10.5, 8.25],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, 13.5, 16.25]},
+			"faces": {
+				"north": {"uv": [0, 0, 16, 16], "texture": "#7"},
+				"east": {"uv": [0, 0, 0.5, 5.5], "texture": "#7"},
+				"south": {"uv": [0, 0, 16, 16], "texture": "#7"},
+				"west": {"uv": [0, 0, 0.5, 5.5], "texture": "#7"},
+				"up": {"uv": [0, 0, 10.5, 0.5], "texture": "#7"},
+				"down": {"uv": [0, 0, 10.5, 0.5], "texture": "#7"}
+			}
+		}
+	],
+	"display": {
+		"head": {
+			"scale": [4, 4, 4]
+		}
+	},
+	"groups": [
+		{
+			"name": "structure",
+			"origin": [8, 8, 8],
+			"children": [
+				{
+					"name": "roof",
+					"origin": [8, 8, 8],
+					"children": []
+				},
+				{
+					"name": "floor",
+					"origin": [8, 8, 8],
+					"children": []
+				},
+				{
+					"name": "walls",
+					"origin": [8, 8, 8],
+					"children": [
+						{
+							"name": "windows",
+							"origin": [1.5, 10.5, 21.25],
+							"children": [
+								{
+									"name": "roof grid",
+									"origin": [21.5, 18.75, 10.54167],
+									"children": []
+								}
+							]
+						},
+						{
+							"name": "front",
+							"origin": [8, 8, 8],
+							"children": [0]
+						}
+					]
+				}
+			]
+		},
+		{
+			"name": "seating",
+			"origin": [8, 8, 8],
+			"children": [
+				{
+					"name": "seat",
+					"origin": [-3.41565, 8.48612, 8.0364],
+					"children": [
+						{
+							"name": "seatbelt",
+							"origin": [-3.13411, 9.52304, 11.69947],
+							"children": []
+						},
+						{
+							"name": "handle",
+							"origin": [-3.13411, 9.52304, 11.69947],
+							"children": []
+						}
+					]
+				},
+				{
+					"name": "seat",
+					"origin": [-3.41565, 8.48612, 8.0364],
+					"children": [
+						{
+							"name": "seatbelt",
+							"origin": [-3.13411, 9.52304, 11.69947],
+							"children": []
+						},
+						{
+							"name": "handle",
+							"origin": [-3.13411, 9.52304, 11.69947],
+							"children": []
+						}
+					]
+				}
+			]
+		},
+		{
+			"name": "seating",
+			"origin": [8, 8, 8],
+			"children": [
+				{
+					"name": "seat",
+					"origin": [-3.41565, 8.48612, 8.0364],
+					"children": [
+						{
+							"name": "seatbelt",
+							"origin": [-3.13411, 9.52304, 11.69947],
+							"children": []
+						},
+						{
+							"name": "handle",
+							"origin": [-3.13411, 9.52304, 11.69947],
+							"children": []
+						}
+					]
+				},
+				{
+					"name": "seat",
+					"origin": [-3.41565, 8.48612, 8.0364],
+					"children": [
+						{
+							"name": "seatbelt",
+							"origin": [-3.13411, 9.52304, 11.69947],
+							"children": []
+						},
+						{
+							"name": "handle",
+							"origin": [-3.13411, 9.52304, 11.69947],
+							"children": []
+						}
+					]
+				}
+			]
+		},
+		{
+			"name": "seating",
+			"origin": [8, 8, 8],
+			"children": [
+				{
+					"name": "seat",
+					"origin": [-3.41565, 8.48612, 8.0364],
+					"children": [
+						{
+							"name": "seatbelt",
+							"origin": [-3.13411, 9.52304, 11.69947],
+							"children": []
+						},
+						{
+							"name": "handle",
+							"origin": [-3.13411, 9.52304, 11.69947],
+							"children": []
+						}
+					]
+				},
+				{
+					"name": "seat",
+					"origin": [-3.41565, 8.48612, 8.0364],
+					"children": [
+						{
+							"name": "seatbelt",
+							"origin": [-3.13411, 9.52304, 11.69947],
+							"children": []
+						},
+						{
+							"name": "handle",
+							"origin": [-3.13411, 9.52304, 11.69947],
+							"children": []
+						}
+					]
+				}
+			]
+		},
+		{
+			"name": "design",
+			"origin": [8, 8, 8],
+			"children": []
+		},
+		{
+			"name": "outer cover",
+			"origin": [8, 8, 8],
+			"children": []
+		},
+		{
+			"name": "wheels",
+			"origin": [8, 8, 8],
+			"children": [
+				{
+					"name": "wheel",
+					"origin": [12.93444, -2.71142, 2.5],
+					"children": [
+						{
+							"name": "wheel-shape",
+							"origin": [12.93444, -2.76059, 2.38128],
+							"children": []
+						}
+					]
+				},
+				{
+					"name": "wheel",
+					"origin": [12.93444, -2.71142, 2.5],
+					"children": [
+						{
+							"name": "wheel-shape",
+							"origin": [12.93444, -2.76059, 2.38128],
+							"children": []
+						}
+					]
+				}
+			]
+		},
+		{
+			"name": "wheels",
+			"origin": [8, 8, 8],
+			"children": [
+				{
+					"name": "wheel",
+					"origin": [12.93444, -2.71142, 2.5],
+					"children": [
+						{
+							"name": "wheel-shape",
+							"origin": [12.93444, -2.76059, 2.38128],
+							"children": []
+						}
+					]
+				},
+				{
+					"name": "wheel",
+					"origin": [12.93444, -2.71142, 2.5],
+					"children": [
+						{
+							"name": "wheel-shape",
+							"origin": [12.93444, -2.76059, 2.38128],
+							"children": []
+						}
+					]
+				}
+			]
+		}
+	]
+}
