@@ -11479,10 +11479,23 @@
 		}
 	],
 	"display": {
+		"gui": {
+			"rotation":  [ 0, 90, 0 ],
+			"translation":  [ -0.695, 1.3913, 0 ],
+			"scale":  [ 0.35, 0.35, 0.35 ]
+		},
 		"head": {
 			"rotation":  [ 0, 90, 0 ],
 			"translation":  [ 0, 0, -18.08 ],
 			"scale":  [ 3, 3, 3 ]
+		},
+		"ground": {
+			"translation":  [ 0, 25.043, 0 ]
+		},
+		"fixed": {
+			"rotation":  [ 0, 90, 0 ],
+			"translation":  [ -2.086, 2.7826, -6.26 ],
+			"scale":  [ 0.5, 0.5, 0.5 ]
 		}
 	}
 }

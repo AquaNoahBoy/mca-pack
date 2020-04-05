@@ -1768,9 +1768,19 @@
 		}
 	],
 	"display": {
+		"gui": {
+			"rotation":  [ 0, 90, 0 ],
+			"translation":  [ 0, 1.3913, 0 ]
+		},
 		"head": {
 			"rotation":  [ 0, -90, 0 ],
 			"scale":  [ 4, 4, 4 ]
+		},
+		"ground": {
+			"translation":  [ 0, 6.9565, 0 ]
+		},
+		"fixed": {
+			"rotation":  [ 0, -90, 0 ]
 		}
 	}
 }

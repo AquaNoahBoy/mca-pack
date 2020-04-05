@@ -1263,9 +1263,14 @@
 		}
 	],
 	"display": {
+		"gui": {
+			"rotation":  [ 0, -90, 0 ],
+			"translation":  [ 0, -1.391, 0 ],
+			"scale":  [ 0.4, 0.4, 0.4 ]
+		},
 		"head": {
 			"rotation":  [ 0, 90, 0 ],
-			"translation":  [ 3, 0, -4 ],
+			"translation":  [ 3, 0, 0 ],
 			"scale":  [ 2, 2, 2 ]
 		}
 	}
