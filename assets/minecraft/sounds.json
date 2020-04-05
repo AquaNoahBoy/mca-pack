@@ -1,0 +1,25 @@
+{
+  "entity.": {
+    "sounds": [
+      {
+        "name": "item/armor/equip_generic1"
+      },
+      {
+        "name": "item/armor/equip_generic2"
+      },
+      {
+        "name": "item/armor/equip_generic3"
+      },
+      {
+        "name": "item/armor/equip_generic4"
+      },
+      {
+        "name": "item/armor/equip_generic5"
+      },
+      {
+        "name": "item/armor/equip_generic6"
+      }
+    ],
+    "subtitle": "subtitles.entity.player.hurt"
+  }
+}
