@@ -361,11 +361,11 @@
             },
             "model": "cosmetics/wand"
 		},
-        {
+		{
             "predicate": {
                 "custom_model_data": 61
             },
-            "model": "template"
-        }
+            "model": "cosmetics/bobross"
+		}
     ]
 }

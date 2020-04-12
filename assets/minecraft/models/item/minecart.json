@@ -444,12 +444,6 @@
                 "custom_model_data": 74
             },
             "model": "dca/gotg_door"
-		},
-        {
-            "predicate": {
-                "custom_model_data": 75
-            },
-            "model": "template"
-        }
+		}
     ]
 }
