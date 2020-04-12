@@ -1,0 +1,101 @@
+{
+    "parent": "item/default_feather",
+    "overrides": [
+        {
+            "predicate": {
+                "custom_model_data": 1
+            },
+            "model": "heads/mickeyhead"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 2
+            },
+            "model": "heads/minniehead"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 3
+            },
+            "model": "heads/donaldhead"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 4
+            },
+            "model": "heads/goofyhead"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 5
+            },
+            "model": "heads/daisyhead"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 6
+            },
+            "model": "heads/plutohead"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 7
+            },
+            "model": "heads/ortensiah"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 8
+            },
+            "model": "heads/oswaldh"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 9
+            },
+            "model": "heads/rocket1"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 10
+            },
+            "model": "heads/rocket2"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 11
+            },
+            "model": "heads/rocket3"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 12
+            },
+            "model": "dca/kugel"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 13
+            },
+            "model": "dca/luxoball"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 14
+            },
+            "model": "dca/lamphead"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 15
+            },
+            "model": "dca/lampbase"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 16
+            },
+            "model": "dl/r2d2"
+        }
+    ]
+}

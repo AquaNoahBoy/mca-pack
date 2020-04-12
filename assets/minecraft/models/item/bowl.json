@@ -233,7 +233,7 @@
             "predicate": {
                 "custom_model_data": 39
             },
-            "model": "cosmetics/mickey"
+            "model": "cosmetics/mickeyears"
 		},
 		{
             "predicate": {
@@ -366,6 +366,96 @@
                 "custom_model_data": 61
             },
             "model": "cosmetics/bobross"
+		},
+		{
+            "predicate": {
+                "custom_model_data": 62
+            },
+            "model": "cosmetics/eveears"
+		},
+		{
+            "predicate": {
+                "custom_model_data": 63
+            },
+            "model": "cosmetics/frozonemask"
+		},
+		{
+            "predicate": {
+                "custom_model_data": 64
+            },
+            "model": "cosmetics/stitchears"
+		},
+		{
+            "predicate": {
+                "custom_model_data": 65
+            },
+            "model": "cosmetics/spidermanears"
+		},
+		{
+            "predicate": {
+                "custom_model_data": 66
+            },
+            "model": "cosmetics/hulkears"
+		},
+		{
+            "predicate": {
+                "custom_model_data": 67
+            },
+            "model": "cosmetics/capsshield"
+		},
+		{
+            "predicate": {
+                "custom_model_data": 68
+            },
+            "model": "cosmetics/constructionhat"
+		},
+		{
+            "predicate": {
+                "custom_model_data": 69
+            },
+            "model": "cosmetics/thorhammer"
+		},
+		{
+            "predicate": {
+                "custom_model_data": 70
+            },
+            "model": "cosmetics/luxo"
+		},
+		{
+            "predicate": {
+                "custom_model_data": 71
+            },
+            "model": "cosmetics/clubhousehat"
+		},
+		{
+            "predicate": {
+                "custom_model_data": 72
+            },
+            "model": "cosmetics/wolverineears"
+		},
+		{
+            "predicate": {
+                "custom_model_data": 73
+            },
+            "model": "cosmetics/incredimask"
+		},
+		{
+            "predicate": {
+                "custom_model_data": 74
+            },
+            "model": "cosmetics/walle"
+		},
+		{
+            "predicate": {
+                "custom_model_data": 75
+            },
+            "model": "cosmetics/boohat"
+		},
+		{
+            "predicate": {
+                "custom_model_data": 76
+            },
+            "model": "cosmetics/rockethat"
 		}
     ]
 }
