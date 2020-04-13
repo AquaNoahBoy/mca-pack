@@ -456,6 +456,30 @@
                 "custom_model_data": 76
             },
             "model": "cosmetics/rockethat"
+		},
+		{
+            "predicate": {
+                "custom_model_data": 77
+            },
+            "model": "cosmetics/infinitygauntlet"
+		},
+		{
+            "predicate": {
+                "custom_model_data": 78
+            },
+            "model": "cosmetics/indyhat1"
+		},
+		{
+            "predicate": {
+                "custom_model_data": 79
+            },
+            "model": "cosmetics/ironmanhand"
+		},
+		{
+            "predicate": {
+                "custom_model_data": 80
+            },
+            "model": "cosmetics/groot"
 		}
     ]
 }
