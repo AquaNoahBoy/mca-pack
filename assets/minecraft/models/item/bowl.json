@@ -480,6 +480,12 @@
                 "custom_model_data": 80
             },
             "model": "cosmetics/groot"
+		},
+		{
+            "predicate": {
+                "custom_model_data": 81
+            },
+            "model": "cosmetics/starlordgun"
 		}
     ]
 }
