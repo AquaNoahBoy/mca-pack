@@ -213,9 +213,9 @@
 		},
 		{
             "predicate": {
-                "custom_model_data": 34
+                "custom_model_data": 36
             },
-            "model": "cosmetics/joey"
+            "model": "cosmetics/mad"
 		},
 		{
             "predicate": {
@@ -486,6 +486,24 @@
                 "custom_model_data": 81
             },
             "model": "cosmetics/starlordgun"
+		},
+		{
+            "predicate": {
+                "custom_model_data": 82
+            },
+            "model": "cosmetics/ortensiahb"
+		},
+		{
+            "predicate": {
+                "custom_model_data": 83
+            },
+            "model": "cosmetics/angelears"
+		},
+		{
+            "predicate": {
+                "custom_model_data": 84
+            },
+            "model": "cosmetics/oswaldhb"
 		}
     ]
 }
