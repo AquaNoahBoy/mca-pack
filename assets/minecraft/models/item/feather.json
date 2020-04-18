@@ -96,6 +96,18 @@
                 "custom_model_data": 16
             },
             "model": "dl/r2d2"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 17
+            },
+            "model": "dca/pixarpier"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 18
+            },
+            "model": "heads/rocket4"
         }
     ]
 }
