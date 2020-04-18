@@ -108,6 +108,24 @@
                 "custom_model_data": 18
             },
             "model": "heads/rocket4"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 19
+            },
+            "model": "dca/wigwag-off"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 20
+            },
+            "model": "dca/wigwag-on"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 21
+            },
+            "model": "dca/wigwagstand"
         }
     ]
 }
