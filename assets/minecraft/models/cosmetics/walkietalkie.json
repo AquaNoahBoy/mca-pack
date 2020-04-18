@@ -1,4 +1,5 @@
 {
+	"__comment": "Designed by AquaCubed for MCAmusement/HorizonParks",
 	"textures": {
 		"voxels_palette": "items/custom/walkie"
 	},
@@ -643,11 +644,13 @@
 	],
 	"display": {
 		"thirdperson_righthand": {
-			"translation":  [ 0, 1.3913, 1.3913 ],
+			"rotation":  [ 0, 180, 0 ],
+			"translation":  [ 0, 2.7826, 0.6956 ],
 			"scale":  [ 0.6, 0.6, 0.6 ]
 		},
 		"thirdperson_lefthand": {
-			"translation":  [ 0, 1.3913, 1.3913 ],
+			"rotation":  [ 0, 180, 0 ],
+			"translation":  [ 0.6956, 2.7826, 0.6956 ],
 			"scale":  [ 0.6, 0.6, 0.6 ]
 		},
 		"firstperson_righthand": {
