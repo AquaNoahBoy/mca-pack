@@ -126,6 +126,36 @@
                 "custom_model_data": 21
             },
             "model": "dca/wigwagstand"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 22
+            },
+            "model": "dca/incredisign1"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 23
+            },
+            "model": "dca/incredisign2"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 24
+            },
+            "model": "dca/wallebillboard"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 25
+            },
+            "model": "dca/upbillboard"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 26
+            },
+            "model": "dca/cleanbillboard"
         }
     ]
 }
