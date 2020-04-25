@@ -1,6 +1,6 @@
 {
 	"textures": {
-		"voxels_palette": "blocks/voxels_palette"
+		"voxels_palette": "items/custom/sorcererears"
 	},
 	"elements": [ 	 
 		{
