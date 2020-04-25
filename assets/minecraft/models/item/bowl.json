@@ -756,6 +756,12 @@
                 "custom_model_data": 126
             },
             "model": "cosmetics/purpleears"
+		},
+		{
+            "predicate": {
+                "custom_model_data": 127
+            },
+            "model": "cosmetics/speedhat"
 		}
     ]
 }
