@@ -156,6 +156,24 @@
                 "custom_model_data": 26
             },
             "model": "dca/cleanbillboard"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 27
+            },
+            "model": "dca/icecream"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 28
+            },
+            "model": "dl/turnstiles"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 29
+            },
+            "model": "dl/errorturnstile"
         }
     ]
 }
