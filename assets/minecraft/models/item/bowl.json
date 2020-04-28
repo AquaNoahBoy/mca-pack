@@ -768,6 +768,12 @@
                 "custom_model_data": 128
             },
             "model": "cosmetics/ttdummy"
+		},
+		{
+            "predicate": {
+                "custom_model_data": 129
+            },
+            "model": "cosmetics/sixtieth"
 		}
     ]
 }
