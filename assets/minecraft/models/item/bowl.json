@@ -761,7 +761,7 @@
             "predicate": {
                 "custom_model_data": 127
             },
-            "model": "cosmetics/speedhat"
+            "model": "cosmetics/aviators"
 		},
 		{
             "predicate": {
@@ -775,5 +775,4 @@
             },
             "model": "cosmetics/sixtieth"
 		}
-    ]
 }
