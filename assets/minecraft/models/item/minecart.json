@@ -444,6 +444,24 @@
                 "custom_model_data": 74
             },
             "model": "dca/gotg_door"
+		},
+		{
+            "predicate": {
+                "custom_model_data": 75
+            },
+            "model": "dl/or-mnrlcar"
+		},
+		{
+            "predicate": {
+                "custom_model_data": 76
+            },
+            "model": "dl/or-mnrldoor1"
+		},
+		{
+            "predicate": {
+                "custom_model_data": 77
+            },
+            "model": "dca/or-mnrldoor2"
 		}
     ]
 }
