@@ -1,9 +1,9 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"2": "Models/monorail_textures",
-		"3": "Models/blue_stained_glass",
-		"particle": "Models/monorail_top"
+		"2": "items/monorail_textures",
+		"3": "block/blue_stained_glass",
+		"particle": "items/monorail_top"
 	},
 	"elements": [
 		{
@@ -176,7 +176,7 @@
 	],
 	"display": {
 		"thirdperson_righthand": {
-			"scale": [3, 3, 3]
+			"scale": [2.75, 2.75, 2.75]
 		},
 		"head": {
 			"translation": [0, -33.5, 0],

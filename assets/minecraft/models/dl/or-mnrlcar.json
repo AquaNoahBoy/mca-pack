@@ -3,11 +3,11 @@
 	"textures": {
 		"1": "items/monorail_top",
 		"2": "items/monorail_textures",
-		"3": "blocks/blue_stained_glass",
+		"3": "block/blue_stained_glass",
 		"4": "items/monorail_logo",
-		"5": "blocks/light_gray_concrete",
-		"6": "blocks/coal_block",
-		"7": "blocks/gray_concrete",
+		"5": "block/light_gray_concrete",
+		"6": "block/coal_block",
+		"7": "block/gray_concrete",
 		"particle": "items/monorail_top"
 	},
 	"elements": [
@@ -5007,10 +5007,10 @@
 	],
 	"display": {
 		"thirdperson_righthand": {
-			"scale": [3, 3, 3]
+			"scale": [2.75, 2.75, 2.75]
 		},
 		"thirdperson_lefthand": {
-			"scale": [3, 3, 3]
+			"scale": [2.75, 2.75, 2.75]
 		},
 		"firstperson_righthand": {
 			"scale": [0.3, 0.3, 0.3]
