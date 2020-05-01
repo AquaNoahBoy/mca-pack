@@ -461,7 +461,7 @@
             "predicate": {
                 "custom_model_data": 77
             },
-            "model": "dca/or-mnrldoor2"
+            "model": "dl/or-mnrldoor2"
 		}
     ]
 }

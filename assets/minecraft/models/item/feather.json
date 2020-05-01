@@ -174,6 +174,66 @@
                 "custom_model_data": 29
             },
             "model": "dl/errorturnstile"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 30
+            },
+            "model": "dca/worldofdisney"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 31
+            },
+            "model": "dca/jackjack"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 32
+            },
+            "model": "dca/incredicoastersign"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 33
+            },
+            "model": "dca/skyschool1"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 34
+            },
+            "model": "dca/skyschool2"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 35
+            },
+            "model": "dca/skyschool3"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 36
+            },
+            "model": "dca/skyschool4"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 37
+            },
+            "model": "heads/kk"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 38
+            },
+            "model": "dca/stringlights"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 39
+            },
+            "model": "dca/stringlights1"
         }
 	]
 }
