@@ -846,6 +846,12 @@
                 "custom_model_data": 141
             },
             "model": "cosmetics/minniedoll"
+		},
+				{
+            "predicate": {
+                "custom_model_data": 142
+            },
+            "model": "cosmetics/command"
 		}
 	]
 }

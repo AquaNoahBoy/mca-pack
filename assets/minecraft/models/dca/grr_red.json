@@ -1,6 +1,16 @@
 {
    "parent": "dca/grr_light_blue",
    "textures": {
-		"1": "block/red_concrete"
+		"0": "block/black_concrete_powder",
+		"1": "block/yellow_concrete",
+		"2": "block/cauldron_inner",
+		"3": "block/light_gray_concrete",
+		"4": "items/mesh",
+		"5": "block/red_terracotta",
+		"7": "block/yellow_terracotta",
+		"8": "block/white_terracotta",
+		"9": "block/orange_terracotta",
+		"10": "block/barrel_side",
+		"particle": "block/black_concrete_powder"
    }
 }

@@ -1,7 +1,12 @@
 {
    "parent": "dca/jj_orange",
    "textures": {
+		"0": "items/blue_concrete_jellyfish",
+		"1": "block/cyan_concrete",
 		"2": "block/yellow_concrete",
 		"3": "block/orange_concrete",
+		"4": "block/anvil",
+		"5": "block/red_terracotta",
+		"particle": "items/blue_concrete_jellyfish"
    }
 }

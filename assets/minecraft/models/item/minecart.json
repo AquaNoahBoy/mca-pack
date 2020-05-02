@@ -41,13 +41,13 @@
             "predicate": {
                 "custom_model_data": 7
             },
-            "model": "dl/btmfronttrain1"
+            "model": "dl/btm_front"
         },
         {
             "predicate": {
                 "custom_model_data": 8
             },
-            "model": "dl/btmtrain"
+            "model": "dl/btm_mid"
         },
         {
             "predicate": {
@@ -273,12 +273,6 @@
 		},
 		{
             "predicate": {
-                "custom_model_data": 46
-            },
-            "model": "dl/potccart"
-		},
-		{
-            "predicate": {
                 "custom_model_data": 47
             },
             "model": "dl/rogercart"
@@ -462,6 +456,48 @@
                 "custom_model_data": 77
             },
             "model": "dl/or-mnrldoor2"
+		},
+		{
+            "predicate": {
+                "custom_model_data": 78
+            },
+            "model": "dca/gotg_inner_door"
+		},
+		{
+            "predicate": {
+                "custom_model_data": 79
+            },
+            "model": "dca/incredicoaster_front"
+		},
+		{
+            "predicate": {
+                "custom_model_data": 80
+            },
+            "model": "dca/incredicoaster_mid"
+		},
+		{
+            "predicate": {
+                "custom_model_data": 81
+            },
+            "model": "dca/incredicoaster_back"
+		},
+		{
+            "predicate": {
+                "custom_model_data": 82
+            },
+            "model": "dl/potcboat_front"
+		},
+		{
+            "predicate": {
+                "custom_model_data": 83
+            },
+            "model": "dl/potcboat_back"
+		},
+		{
+            "predicate": {
+                "custom_model_data": 84
+            },
+            "model": "dl/iaswboat"
 		}
     ]
 }

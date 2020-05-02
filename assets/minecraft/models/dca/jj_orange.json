@@ -1,7 +1,7 @@
 {
 	"credit": "Made by Sean S.",
 	"textures": {
-		"0": "items/blue_concrete",
+		"0": "items/blue_concrete_jellyfish",
 		"1": "block/cyan_concrete",
 		"2": "block/orange_concrete",
 		"3": "block/red_concrete",
