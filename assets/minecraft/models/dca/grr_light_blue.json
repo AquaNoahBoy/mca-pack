@@ -11,9 +11,8 @@
 		"9": "block/orange_terracotta",
 		"10": "block/barrel_side",
 		"particle": "block/black_concrete_powder",
-		"missing": "blocks/e_texture"
 	},
-	"elements": [ 	 
+	"elements": [
 		{
 			"__comment": "Element",
 			"from": [ 4.5677, -3, -9.2504 ],

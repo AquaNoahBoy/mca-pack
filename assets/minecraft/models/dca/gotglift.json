@@ -1,5 +1,5 @@
 {
-	"__comment": "Designed by AquaCubed with Cubik Studio - https://cubik.studio",
+	"__comment": "Made by Sean S.",
 	"textures": {
 		"0": "block/gray_concrete",
 		"1": "block/cauldron_inner",
@@ -10,7 +10,7 @@
 		"7": "block/blast_furnace_top",
 		"particle": "block/gray_concrete"
 	},
-	"elements": [ 	 
+	"elements": [
 		{
 			"__comment": "Element",
 			"from": [ -5.8125, 18.25, -0.5 ],
