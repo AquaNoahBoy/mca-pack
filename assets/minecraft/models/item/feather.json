@@ -246,6 +246,24 @@
                 "custom_model_data": 41
             },
             "model": "dl/nemo"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 42
+            },
+            "model": "dca/jackjacklaser"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 43
+            },
+            "model": "dca/icleg"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 44
+            },
+            "model": "dca/ictorso"
         }
 	]
 }
