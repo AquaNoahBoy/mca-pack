@@ -1,0 +1,9 @@
+{
+	"parent": "dca/jackjacklaser",
+	"display": {
+		"head": {
+			"translation": [0, 31, 9.5],
+			"scale": [4, 4, 2]
+		}
+	}
+}
