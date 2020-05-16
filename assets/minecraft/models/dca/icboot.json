@@ -1,0 +1,28 @@
+{
+	"credit": "Made with Blockbench",
+	"textures": {
+		"0": "items/icarmor",
+		"particle": "items/icarmor"
+	},
+	"elements": [
+		{
+			"from": [7, 0, 7],
+			"to": [11, 6, 11],
+			"rotation": {"angle": 0, "axis": "y", "origin": [15, 8, 15]},
+			"faces": {
+				"north": {"uv": [0, 6.5, 1, 8], "texture": "#0"},
+				"east": {"uv": [3, 6.5, 4, 8], "texture": "#0"},
+				"south": {"uv": [2, 6.5, 3, 8], "texture": "#0"},
+				"west": {"uv": [1, 6.5, 2, 8], "texture": "#0"},
+				"up": {"uv": [2, 6.5, 3, 8], "texture": "#0"},
+				"down": {"uv": [2, 4, 3, 5], "texture": "#0"}
+			}
+		}
+	],
+	"display": {
+		"head": {
+			"translation": [-1.25, 19, -0.5],
+			"scale": [1.89, 1.66, 1.89]
+		}
+	}
+}

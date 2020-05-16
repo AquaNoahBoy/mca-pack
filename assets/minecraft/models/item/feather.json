@@ -270,6 +270,30 @@
                 "custom_model_data": 45
             },
             "model": "dca/shortlaser"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 46
+            },
+            "model": "dca/icleg1"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 47
+            },
+            "model": "dca/icshoulder"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 48
+            },
+            "model": "dca/icboot"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 49
+            },
+            "model": "dca/fig1"
         }
 	]
 }

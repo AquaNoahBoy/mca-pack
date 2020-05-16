@@ -1,0 +1,6 @@
+{
+	"parent": "dca/icleg",
+	"textures":{
+		"0": "items/icleg1"
+	}
+}
