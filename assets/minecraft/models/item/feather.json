@@ -264,6 +264,12 @@
                 "custom_model_data": 44
             },
             "model": "dca/ictorso"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 45
+            },
+            "model": "dca/shortlaser"
         }
 	]
 }
