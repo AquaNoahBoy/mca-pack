@@ -294,6 +294,36 @@
                 "custom_model_data": 49
             },
             "model": "dca/fig1"
+        },
+				{
+            "predicate": {
+                "custom_model_data": 50
+            },
+            "model": "heads/mrincredible"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 51
+            },
+            "model": "heads/elastigirl"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 52
+            },
+            "model": "heads/violet"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 53
+            },
+            "model": "heads/dash"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 54
+            },
+            "model": "heads/jackjack"
         }
 	]
 }
