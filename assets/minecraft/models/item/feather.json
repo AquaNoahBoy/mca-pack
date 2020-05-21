@@ -324,6 +324,60 @@
                 "custom_model_data": 54
             },
             "model": "heads/jackjack"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 55
+            },
+            "model": "heads/jackjackbig"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 56
+            },
+            "model": "arm/arm1"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 57
+            },
+            "model": "arm/arm2"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 58
+            },
+            "model": "arm/arm3"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 59
+            },
+            "model": "arm/arm4"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 60
+            },
+            "model": "arm/arm5"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 61
+            },
+            "model": "arm/arm6"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 62
+            },
+            "model": "arm/arm7"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 63
+            },
+            "model": "arm/arm8"
         }
 	]
 }

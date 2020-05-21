@@ -498,6 +498,84 @@
                 "custom_model_data": 84
             },
             "model": "dl/iaswboat"
+		},
+		{
+            "predicate": {
+                "custom_model_data": 85
+            },
+            "model": "dca/trfront"
+		},
+		{
+            "predicate": {
+                "custom_model_data": 86
+            },
+            "model": "dca/trmiddle"
+		},
+		{
+            "predicate": {
+                "custom_model_data": 87
+            },
+            "model": "dca/trback"
+		},
+		{
+            "predicate": {
+                "custom_model_data": 88
+            },
+            "model": "dca/pentagraph"
+		},
+		{
+            "predicate": {
+                "custom_model_data": 89
+            },
+            "model": "dca/trdoor1"
+		},
+		{
+            "predicate": {
+                "custom_model_data": 90
+            },
+            "model": "dca/trdoor2"
+		},
+		{
+            "predicate": {
+                "custom_model_data": 91
+            },
+            "model": "dca/trdoor3"
+		},
+		{
+            "predicate": {
+                "custom_model_data": 92
+            },
+            "model": "dca/trdoor4"
+		},
+		{
+            "predicate": {
+                "custom_model_data": 93
+            },
+            "model": "dca/trdoor5"
+		},
+		{
+            "predicate": {
+                "custom_model_data": 94
+            },
+            "model": "dca/trdoor6"
+		},
+		{
+            "predicate": {
+                "custom_model_data": 95
+            },
+            "model": "dca/trdoor7"
+		},
+		{
+            "predicate": {
+                "custom_model_data": 96
+            },
+            "model": "dca/trdoor8"
+		},
+		{
+            "predicate": {
+                "custom_model_data": 97
+            },
+            "model": "dca/trdoor9"
 		}
     ]
 }

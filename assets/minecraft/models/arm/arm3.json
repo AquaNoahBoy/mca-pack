@@ -1,0 +1,51 @@
+{
+	"credit": "Made for use on MCA/HP",
+	"textures": {
+		"0": "items/arms"
+	},
+	"elements": [
+		{
+			"name": "right_arm",
+			"from": [12, 11.5, 6],
+			"to": [16, 23.5, 10],
+			"faces": {
+				"north": {"uv": [9, 5, 10, 8], "texture": "#0"},
+				"east": {"uv": [8, 5, 9, 8], "texture": "#0"},
+				"south": {"uv": [10, 5, 11, 8], "texture": "#0"},
+				"west": {"uv": [11, 5, 12, 8], "texture": "#0"},
+				"up": {"uv": [10, 5, 9, 4], "texture": "#0"},
+				"down": {"uv": [11, 4, 10, 5], "texture": "#0"}
+			}
+		},
+		{
+			"name": "left_arm",
+			"from": [0, 11.5, 6],
+			"to": [4, 23.5, 10],
+			"faces": {
+				"north": {"uv": [13, 5, 14, 8], "texture": "#0"},
+				"east": {"uv": [12, 5, 13, 8], "texture": "#0"},
+				"south": {"uv": [14, 5, 15, 8], "texture": "#0"},
+				"west": {"uv": [15, 5, 16, 8], "texture": "#0"},
+				"up": {"uv": [14, 5, 13, 4], "texture": "#0"},
+				"down": {"uv": [15, 4, 14, 5], "texture": "#0"}
+			}
+		}
+	],
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [90, 0, 0],
+			"translation": [-6, -2, -3.5]
+		},
+		"head": {
+			"translation": [0, -29, 0],
+			"scale": [1.6, 1.6, 1.6]
+		}
+	},
+	"groups": [
+		{
+			"name": "steve",
+			"origin": [8, 8, 8],
+			"children": [0, 1]
+		}
+	]
+}

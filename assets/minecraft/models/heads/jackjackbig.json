@@ -1,0 +1,9 @@
+{
+	"parent": "heads/jackjack",
+	"display": {
+		"head": {
+			"translation": [4.75, 25, -1.75],
+			"scale": [4, 4, 4]
+		}
+	}
+}
