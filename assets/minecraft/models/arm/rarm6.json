@@ -1,0 +1,27 @@
+{
+	"credit": "Made for use on MCA/HP",
+	"textures": {
+		"0": "items/arms"
+	},
+	"elements": [
+		{
+			"name": "right_arm",
+			"from": [12, 11.5, 6],
+			"to": [16, 23.5, 10],
+			"faces": {
+				"north": {"uv": [1, 5, 2, 8], "texture": "#0"},
+				"east": {"uv": [0, 5, 1, 8], "texture": "#0"},
+				"south": {"uv": [2, 5, 3, 8], "texture": "#0"},
+				"west": {"uv": [3, 5, 4, 8], "texture": "#0"},
+				"up": {"uv": [2, 5, 1, 4], "texture": "#0"},
+				"down": {"uv": [3, 4, 2, 5], "texture": "#0"}
+			}
+		}
+	],
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [90, 0, 0],
+			"translation": [-6, -2, -3.5]
+			}
+	}
+}

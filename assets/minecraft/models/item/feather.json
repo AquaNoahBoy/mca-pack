@@ -335,49 +335,121 @@
             "predicate": {
                 "custom_model_data": 56
             },
-            "model": "arm/arm1"
+            "model": "arm/larm1"
         },
 		{
             "predicate": {
                 "custom_model_data": 57
             },
-            "model": "arm/arm2"
+            "model": "arm/rarm1"
         },
 		{
             "predicate": {
                 "custom_model_data": 58
             },
-            "model": "arm/arm3"
+            "model": "arm/larm2"
         },
 		{
             "predicate": {
                 "custom_model_data": 59
             },
-            "model": "arm/arm4"
+            "model": "arm/rarm2"
         },
 		{
             "predicate": {
                 "custom_model_data": 60
             },
-            "model": "arm/arm5"
+            "model": "arm/larm3"
         },
 		{
             "predicate": {
                 "custom_model_data": 61
             },
-            "model": "arm/arm6"
+            "model": "arm/rarm3"
         },
 		{
             "predicate": {
                 "custom_model_data": 62
             },
-            "model": "arm/arm7"
+            "model": "arm/larm4"
         },
 		{
             "predicate": {
                 "custom_model_data": 63
             },
-            "model": "arm/arm8"
+            "model": "arm/rarm4"
+        },
+				{
+            "predicate": {
+                "custom_model_data": 64
+            },
+            "model": "arm/larm5"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 65
+            },
+            "model": "arm/rarm5"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 66
+            },
+            "model": "arm/larm6"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 67
+            },
+            "model": "arm/rarm6"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 68
+            },
+            "model": "arm/larm7"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 69
+            },
+            "model": "arm/rarm7"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 70
+            },
+            "model": "arm/larm8"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 71
+            },
+            "model": "arm/rarm8"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 72
+            },
+            "model": "dca/jackjackarmleft"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 73
+            },
+            "model": "dca/jackjackarmright"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 74
+            },
+            "model": "dca/jackjackarmortorso"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 75
+            },
+            "model": "dca/jackjackarmorleg"
         }
 	]
 }
