@@ -1,0 +1,27 @@
+{
+	"__comment": "Designed by AquaCubed for MCAmusement/HorizonParks",
+	"textures": {
+		"3": "items/icchar"
+	},
+	"elements": [ 	 
+		{
+			"__comment": "Element",
+			"from": [ 6.8, 1.7, 6 ],
+			"to": [ 10.8, 13.7, 10 ],
+			"faces": {
+				"down": { "uv": [ 7, 0, 6, 1 ], "texture": "#3" },
+				"up": { "uv": [ 6, 1, 5, 0 ], "texture": "#3" },
+				"north": { "uv": [ 5, 1, 6, 4 ], "texture": "#3" },
+				"south": { "uv": [ 7, 1, 8, 4 ], "texture": "#3" },
+				"west": { "uv": [ 4, 1, 5, 4 ], "texture": "#3" },
+				"east": { "uv": [ 6, 1, 7, 4 ], "texture": "#3" }
+			}
+		}
+	],
+	"display": {
+		"head": {
+			"translation":  [ -1.25, 22, 0 ],
+			"scale":  [ 2.2, 2.2, 2.2 ]
+		}
+	}
+}
