@@ -239,13 +239,13 @@
             "predicate": {
                 "custom_model_data": 40
             },
-            "model": "dl/dory"
+            "model": "dl/cannon"
         },
 		{
             "predicate": {
                 "custom_model_data": 41
             },
-            "model": "dl/nemo"
+            "model": "dca/milano"
         },
 		{
             "predicate": {
@@ -480,6 +480,30 @@
                 "custom_model_data": 80
             },
             "model": "dca/icchararm"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 81
+            },
+            "model": "dca/salesign"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 82
+            },
+            "model": "dca/firehydrant"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 83
+            },
+            "model": "dca/slow"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 84
+            },
+            "model": "dca/carstrash"
         }
 	]
 }
