@@ -966,6 +966,18 @@
                 "custom_model_data": 161
             },
             "model": "cosmetics/orbirdears"
+		},
+		{
+            "predicate": {
+                "custom_model_data": 162
+            },
+            "model": "cosmetics/usflag"
+		},
+		{
+            "predicate": {
+                "custom_model_data": 163
+            },
+            "model": "cosmetics/sameagle"
 		}
 	]
 }

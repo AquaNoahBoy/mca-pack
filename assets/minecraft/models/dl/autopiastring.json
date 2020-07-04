@@ -1,0 +1,6 @@
+{
+	"parent": "dca/jackjacklaser",
+	"textures":{
+		"0": "block/light_gray_concrete"
+	}
+}

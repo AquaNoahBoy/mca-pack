@@ -504,6 +504,12 @@
                 "custom_model_data": 84
             },
             "model": "dca/carstrash"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 85
+            },
+            "model": "dl/autopiastring"
         }
 	]
 }
