@@ -546,6 +546,18 @@
                 "custom_model_data": 91
             },
             "model": "dl/skeleton_torso_tan1"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 92
+            },
+            "model": "dl/lightning1"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 93
+            },
+            "model": "dl/lightning2"
         }
 	]
 }
