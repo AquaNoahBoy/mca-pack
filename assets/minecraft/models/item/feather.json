@@ -558,6 +558,12 @@
                 "custom_model_data": 93
             },
             "model": "dl/lightning2"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 94
+            },
+            "model": "dl/candelabra"
         }
 	]
 }

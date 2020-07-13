@@ -8,9 +8,9 @@
 	"elements": [
 		{
 			"name": "Center post",
-			"from": [-12, 0, 0],
-			"to": [-4, 16, 8],
-			"rotation": {"angle": 0, "axis": "y", "origin": [8, 8, -9]},
+			"from": [-12, 0, 0.5],
+			"to": [-4, 16, 8.5],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, 8, -8.5]},
 			"faces": {
 				"north": {"uv": [0, 0, 8, 16], "texture": "#wall"},
 				"east": {"uv": [8, 0, 16, 16], "texture": "#wall"},
@@ -22,9 +22,9 @@
 		},
 		{
 			"name": "Center post",
-			"from": [-12, 16, 0],
-			"to": [-4, 32, 8],
-			"rotation": {"angle": 0, "axis": "y", "origin": [8, 24, -9]},
+			"from": [-12, 16, 0.5],
+			"to": [-4, 32, 8.5],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, 24, -8.5]},
 			"faces": {
 				"north": {"uv": [0, 0, 8, 16], "texture": "#wall"},
 				"east": {"uv": [8, 0, 16, 16], "texture": "#wall"},
@@ -36,9 +36,9 @@
 		},
 		{
 			"name": "Center post",
-			"from": [-12, -16, 0],
-			"to": [-4, 0, 8],
-			"rotation": {"angle": 0, "axis": "y", "origin": [8, -8, -9]},
+			"from": [-12, -16, 0.5],
+			"to": [-4, 0, 8.5],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, -8, -8.5]},
 			"faces": {
 				"north": {"uv": [0, 0, 8, 16], "texture": "#wall"},
 				"east": {"uv": [8, 0, 16, 16], "texture": "#wall"},
@@ -50,9 +50,9 @@
 		},
 		{
 			"name": "Center post",
-			"from": [4, 0, 20],
-			"to": [12, 16, 28],
-			"rotation": {"angle": 0, "axis": "y", "origin": [24.4, 8, -9]},
+			"from": [4, 0, 21],
+			"to": [12, 16, 29],
+			"rotation": {"angle": 0, "axis": "y", "origin": [24.4, 8, -8]},
 			"faces": {
 				"north": {"uv": [0, 0, 8, 16], "texture": "#wall"},
 				"east": {"uv": [8, 0, 16, 16], "texture": "#wall"},
@@ -64,9 +64,9 @@
 		},
 		{
 			"name": "Center post",
-			"from": [4, 16, 20],
-			"to": [12, 32, 28],
-			"rotation": {"angle": 0, "axis": "y", "origin": [24.4, 24, -9]},
+			"from": [4, 16, 21],
+			"to": [12, 32, 29],
+			"rotation": {"angle": 0, "axis": "y", "origin": [24.4, 24, -8]},
 			"faces": {
 				"north": {"uv": [0, 0, 8, 16], "texture": "#wall"},
 				"east": {"uv": [8, 0, 16, 16], "texture": "#wall"},
@@ -78,9 +78,9 @@
 		},
 		{
 			"name": "Center post",
-			"from": [4, -16, 20],
-			"to": [12, 0, 28],
-			"rotation": {"angle": 0, "axis": "y", "origin": [24.4, -8, -9]},
+			"from": [4, -16, 21],
+			"to": [12, 0, 29],
+			"rotation": {"angle": 0, "axis": "y", "origin": [24.4, -8, -8]},
 			"faces": {
 				"north": {"uv": [0, 0, 8, 16], "texture": "#wall"},
 				"east": {"uv": [8, 0, 16, 16], "texture": "#wall"},

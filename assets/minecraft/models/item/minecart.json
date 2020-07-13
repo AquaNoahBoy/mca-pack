@@ -576,6 +576,30 @@
                 "custom_model_data": 97
             },
             "model": "dca/trdoor9"
-		}
+		},
+		{
+            "predicate": {
+                "custom_model_data": 98
+            },
+            "model": "dl/marktwain_back"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 99
+            },
+            "model": "dl/marktwain_backsmoke"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 100
+            },
+            "model": "dl/marktwain_mid2"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 101
+            },
+            "model": "dl/marktwain_mid2top"
+        }
     ]
 }
