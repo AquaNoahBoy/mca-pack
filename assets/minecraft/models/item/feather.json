@@ -564,6 +564,12 @@
                 "custom_model_data": 94
             },
             "model": "dl/candelabra"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 95
+            },
+            "model": "dca/rs"
         }
 	]
 }

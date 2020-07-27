@@ -600,6 +600,36 @@
                 "custom_model_data": 101
             },
             "model": "dl/marktwain_mid2top"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 102
+            },
+            "model": "dl/marktwain_mid1"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 103
+            },
+            "model": "dl/marktwain_mid1top"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 104
+            },
+            "model": "dl/marktwain_sternwheel"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 105
+            },
+            "model": "dl/marktwain_connector"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 106
+            },
+            "model": "dl/marktwain_piston"
         }
     ]
 }
