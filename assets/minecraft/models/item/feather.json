@@ -570,6 +570,12 @@
                 "custom_model_data": 95
             },
             "model": "dca/rs"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 96
+            },
+            "model": "dca/dcahalloweenbat"
         }
 	]
 }
