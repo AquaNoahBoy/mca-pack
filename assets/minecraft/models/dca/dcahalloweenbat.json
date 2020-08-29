@@ -1,8 +1,8 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"0": "block/Black",
-		"particle": "block/Black"
+		"0": "block/nether_quartz_ore",
+		"particle": "block/nether_quartz_ore"
 	},
 	"elements": [
 		{
