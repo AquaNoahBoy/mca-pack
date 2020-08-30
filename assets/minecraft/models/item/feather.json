@@ -576,6 +576,12 @@
                 "custom_model_data": 96
             },
             "model": "dca/dcahalloweenbat"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 97
+            },
+            "model": "dca/hallolamp"
         }
 	]
 }
