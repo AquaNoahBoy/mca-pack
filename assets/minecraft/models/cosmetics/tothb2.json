@@ -1,6 +1,6 @@
 {
 	"textures": {
-		"tothb2": "blocks/tothb2"
+		"tothb2": "items/custom/tothb2"
 	},
 	"elements": [ 	 
 		{

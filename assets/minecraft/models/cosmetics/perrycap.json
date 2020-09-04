@@ -1,6 +1,6 @@
 {
 	"textures": {
-		"perrycap": "blocks/perrycap"
+		"perrycap": "items/custom/perrycap"
 	},
 	"elements": [ 	 
 		{

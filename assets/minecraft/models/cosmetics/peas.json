@@ -1,6 +1,6 @@
 {
 	"textures": {
-		"peas": "blocks/peas"
+		"peas": "items/custom/peas"
 	},
 	"elements": [ 	 
 		{

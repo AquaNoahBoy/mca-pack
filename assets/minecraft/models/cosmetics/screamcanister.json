@@ -1,6 +1,6 @@
 {
 	"textures": {
-		"screamcanister": "blocks/screamcanister"
+		"screamcanister": "items/custom/screamcanister"
 	},
 	"elements": [ 	 
 		{

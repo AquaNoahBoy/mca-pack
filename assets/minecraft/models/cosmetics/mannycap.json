@@ -1,6 +1,6 @@
 {
 	"textures": {
-		"manny": "blocks/manny"
+		"manny": "items/custom/manny"
 	},
 	"elements": [ 	 
 		{

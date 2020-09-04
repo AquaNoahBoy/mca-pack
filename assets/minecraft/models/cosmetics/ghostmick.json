@@ -1,6 +1,6 @@
 {
 	"textures": {
-		"ghostmick": "blocks/ghostmick"
+		"ghostmick": "items/custom/ghostmick"
 	},
 	"elements": [ 	 
 		{

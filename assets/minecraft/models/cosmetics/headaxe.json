@@ -1,6 +1,6 @@
 {
 	"textures": {
-		"headaxe": "blocks/headaxe"
+		"headaxe": "items/custom/headaxe"
 	},
 	"elements": [ 	 
 		{

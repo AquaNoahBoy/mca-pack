@@ -1,6 +1,6 @@
 {
 	"textures": {
-		"mikecap": "blocks/mikecap"
+		"mikecap": "items/custom/mikecap"
 	},
 	"elements": [ 	 
 		{

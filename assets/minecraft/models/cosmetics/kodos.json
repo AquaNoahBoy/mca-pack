@@ -1,6 +1,6 @@
 {
 	"textures": {
-		"kodos": "blocks/kodos"
+		"kodos": "items/custom/kodos"
 	},
 	"elements": [ 	 
 		{

@@ -1,6 +1,6 @@
 {
 	"textures": {
-		"burgerears": "blocks/voxels_atlas"
+		"burgerears": "items/custom/burgerears"
 	},
 	"elements": [ 	 
 		{

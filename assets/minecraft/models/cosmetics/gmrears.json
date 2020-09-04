@@ -1,6 +1,6 @@
 {
 	"textures": {
-		"gmrears": "blocks/gmrears"
+		"gmrears": "items/custom/gmrears"
 	},
 	"elements": [ 	 
 		{

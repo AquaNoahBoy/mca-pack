@@ -1,6 +1,6 @@
 {
 	"textures": {
-		"treatpale1": "blocks/treatpale1"
+		"treatpale1": "items/custom/treatpale1"
 	},
 	"elements": [ 	 
 		{

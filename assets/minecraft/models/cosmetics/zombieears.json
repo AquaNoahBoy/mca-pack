@@ -1,6 +1,6 @@
 {
 	"textures": {
-		"zombieears": "blocks/zombieears"
+		"zombieears": "items/custom/zombieears"
 	},
 	"elements": [ 	 
 		{

@@ -1,6 +1,6 @@
 {
 	"textures": {
-		"meap": "blocks/meap"
+		"meap": "items/custom/meap"
 	},
 	"elements": [ 	 
 		{

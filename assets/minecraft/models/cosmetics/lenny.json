@@ -1,6 +1,6 @@
 {
 	"textures": {
-		"lenny": "blocks/lenny"
+		"lenny": "items/custom/lenny"
 	},
 	"elements": [ 	 
 		{

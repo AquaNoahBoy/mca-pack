@@ -978,6 +978,168 @@
                 "custom_model_data": 163
             },
             "model": "cosmetics/sameagle"
+		},
+		{
+            "predicate": {
+                "custom_model_data": 164
+            },
+            "model": "cosmetics/prideears"
+		},
+		{
+            "predicate": {
+                "custom_model_data": 165
+            },
+            "model": "cosmetics/pridehb"
+		},
+		{
+            "predicate": {
+                "custom_model_data": 166
+            },
+            "model": "cosmetics/forky"
+		},
+		{
+            "predicate": {
+                "custom_model_data": 167
+            },
+            "model": "cosmetics/mannycap"
+		},
+		{
+            "predicate": {
+                "custom_model_data": 168
+            },
+            "model": "cosmetics/lenny"
+		},
+		{
+            "predicate": {
+                "custom_model_data": 169
+            },
+            "model": "cosmetics/peas"
+		},
+		{
+            "predicate": {
+                "custom_model_data": 170
+            },
+            "model": "cosmetics/meap"
+		},
+		{
+            "predicate": {
+                "custom_model_data": 171
+            },
+            "model": "cosmetics/wheezy"
+		},
+		{
+            "predicate": {
+                "custom_model_data": 172
+            },
+            "model": "cosmetics/mikecap"
+		},
+		{
+            "predicate": {
+                "custom_model_data": 173
+            },
+            "model": "cosmetics/perrycap"
+		},
+		{
+            "predicate": {
+                "custom_model_data": 174
+            },
+            "model": "cosmetics/burgerears"
+		},
+		{
+            "predicate": {
+                "custom_model_data": 175
+            },
+            "model": "cosmetics/gmrears"
+		},
+		{
+            "predicate": {
+                "custom_model_data": 176
+            },
+            "model": "cosmetics/gmrcast"
+		},
+		{
+            "predicate": {
+                "custom_model_data": 177
+            },
+            "model": "cosmetics/mikeweyecap"
+		},
+		{
+            "predicate": {
+                "custom_model_data": 178
+            },
+            "model": "cosmetics/birdshoulder"
+		},
+		{
+            "predicate": {
+                "custom_model_data": 179
+            },
+            "model": "cosmetics/mickeycaphybrid"
+		},
+		{
+            "predicate": {
+                "custom_model_data": 180
+            },
+            "model": "cosmetics/russelcap"
+		},
+		{
+            "predicate": {
+                "custom_model_data": 181
+            },
+            "model": "cosmetics/goofyhb"
+		},
+		{
+            "predicate": {
+                "custom_model_data": 182
+            },
+            "model": "cosmetics/dolehb"
+		},
+		{
+            "predicate": {
+                "custom_model_data": 183
+            },
+            "model": "cosmetics/ghostmick"
+		},
+		{
+            "predicate": {
+                "custom_model_data": 184
+            },
+            "model": "cosmetics/screamcanister"
+		},
+		{
+            "predicate": {
+                "custom_model_data": 185
+            },
+            "model": "cosmetics/pumpkinears"
+		},
+		{
+            "predicate": {
+                "custom_model_data": 186
+            },
+            "model": "cosmetics/kodos"
+		},
+		{
+            "predicate": {
+                "custom_model_data": 187
+            },
+            "model": "cosmetics/headaxe"
+		},
+		{
+            "predicate": {
+                "custom_model_data": 188
+            },
+            "model": "cosmetics/zombieears"
+		},
+		{
+            "predicate": {
+                "custom_model_data": 189
+            },
+            "model": "cosmetics/tothb2"
+		},
+		{
+            "predicate": {
+                "custom_model_data": 190
+            },
+            "model": "cosmetics/treatpale1"
 		}
 	]
 }

@@ -1,6 +1,6 @@
 {
 	"textures": {
-		"pumpkinears": "blocks/pumpkinears"
+		"pumpkinears": "items/custom/pumpkinears"
 	},
 	"elements": [ 	 
 		{

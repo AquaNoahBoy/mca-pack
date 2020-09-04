@@ -1,6 +1,6 @@
 {
 	"textures": {
-		"wheezy": "blocks/wheezy"
+		"wheezy": "items/custom/wheezy"
 	},
 	"elements": [ 	 
 		{
