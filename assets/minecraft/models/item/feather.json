@@ -582,6 +582,30 @@
                 "custom_model_data": 97
             },
             "model": "dca/hallolamp"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 98
+            },
+            "model": "dca/hallobanner1"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 99
+            },
+            "model": "dca/hallobanner2"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 100
+            },
+            "model": "dca/hallosign1"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 101
+            },
+            "model": "dca/hallosign2"
         }
 	]
 }

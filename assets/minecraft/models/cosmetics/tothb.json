@@ -612,6 +612,13 @@
 			}
 		},
 		{
+			"__comment": "Voxels-D1A38C",
+			"from": [ 7, 7.75, 6.75 ],
+			"to": [ 9, 8, 7 ],
+			"faces": {
+			}
+		},
+		{
 			"__comment": "Voxels-6E262A",
 			"from": [ 7, 7.75, 9.5 ],
 			"to": [ 9, 8, 10 ],
@@ -2299,10 +2306,10 @@
 			"scale":  [ 0.8, 0.8, 0.8 ]
 		},
 		"firstperson_righthand": {
-			"translation":  [ 0, 3.4782, 0 ]
+			"translation":  [ 0, 4.8695, 0 ]
 		},
 		"firstperson_lefthand": {
-			"translation":  [ 0, 3.4782, 0 ]
+			"translation":  [ 0, 4.8695, 0 ]
 		},
 		"gui": {
 			"rotation":  [ 9, -106, 0 ],
@@ -2310,7 +2317,7 @@
 		},
 		"head": {
 			"rotation":  [ 0, 90, 0 ],
-			"translation":  [ 0, 9.7391, -0.694 ],
+			"translation":  [ 0, 9.7391, -1.39 ],
 			"scale":  [ 1.65, 1.65, 1.65 ]
 		},
 		"ground": {
