@@ -1140,6 +1140,18 @@
                 "custom_model_data": 190
             },
             "model": "cosmetics/treatpale1"
+		},
+		{
+            "predicate": {
+                "custom_model_data": 191
+            },
+            "model": "cosmetics/treatpale2"
+		},
+		{
+            "predicate": {
+                "custom_model_data": 192
+            },
+            "model": "cosmetics/treatpale3"
 		}
 	]
 }
