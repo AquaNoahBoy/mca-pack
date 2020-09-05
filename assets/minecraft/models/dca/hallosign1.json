@@ -2,7 +2,7 @@
 	"credit": "Made for use on MCA/HP",
 	"textures": {
 		"0": "block/oogie1",
-		"1": "(Updated 1.13) 3D Model Textures/black_concrete"
+		"1": "block/black_concrete"
 	},
 	"elements": [
 		{

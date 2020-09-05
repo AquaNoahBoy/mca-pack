@@ -2,8 +2,7 @@
 	"credit": "Made for use on MCA/HP",
 	"textures": {
 		"0": "block/otherblue",
-		"1": "block/lightblue",
-		"particle": "block/otherblue"
+		"1": "block/lightblue"
 	},
 	"elements": [
 		{
@@ -1853,6 +1852,11 @@
 			}
 		}
 	],
+	"display": {
+		"head": {
+			"scale": [1.2, 1.2, 1.2]
+		}
+	},
 	"groups": [
 		{
 			"name": "frame",

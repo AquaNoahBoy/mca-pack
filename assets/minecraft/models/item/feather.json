@@ -606,6 +606,18 @@
                 "custom_model_data": 101
             },
             "model": "dca/hallosign2"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 102
+            },
+            "model": "dca/hallobanner3"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 103
+            },
+            "model": "dca/hallocandle"
         }
 	]
 }

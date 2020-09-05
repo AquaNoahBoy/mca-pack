@@ -2,7 +2,7 @@
 	"credit": "Made for use on MCA/HP",
 	"textures": {
 		"0": "block/oogie2",
-		"1": "(Updated 1.13) 3D Model Textures/black_concrete"
+		"1": "block/black_concrete"
 	},
 	"elements": [
 		{
@@ -11,11 +11,7 @@
 			"rotation": {"angle": 0, "axis": "y", "origin": [8, 0.5, 8]},
 			"faces": {
 				"north": {"uv": [15.957, 0, 15.999, 16], "texture": "#0"},
-				"east": {"uv": [16, 0.086, 16.005, 16], "texture": "#0"},
-				"south": {"uv": [0, 0, 16, 16], "texture": "#0"},
-				"west": {"uv": [16, 0.086, 16.005, 16], "texture": "#0"},
-				"up": {"uv": [16, 0.086, 16.005, 16], "texture": "#0"},
-				"down": {"uv": [16, 0.086, 16.005, 16], "texture": "#0"}
+				"south": {"uv": [0, 0, 16, 16], "texture": "#0"}
 			}
 		},
 		{
