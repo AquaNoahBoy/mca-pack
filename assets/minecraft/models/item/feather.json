@@ -618,6 +618,12 @@
                 "custom_model_data": 103
             },
             "model": "dca/hallocandle"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 104
+            },
+            "model": "dca/hallotreat"
         }
 	]
 }
