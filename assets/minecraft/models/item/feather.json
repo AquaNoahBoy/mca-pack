@@ -627,19 +627,19 @@
         },
 		{
             "predicate": {
-                "custom_model_data": 104
+                "custom_model_data": 105
             },
             "model": "dca/hallosign3"
         },
 		{
             "predicate": {
-                "custom_model_data": 104
+                "custom_model_data": 106
             },
             "model": "dca/hallosign4"
         },
 		{
             "predicate": {
-                "custom_model_data": 105
+                "custom_model_data": 107
             },
             "model": "dca/hallomoon"
         }
