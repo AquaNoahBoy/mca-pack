@@ -624,6 +624,24 @@
                 "custom_model_data": 104
             },
             "model": "dca/hallotreat"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 104
+            },
+            "model": "dca/hallosign3"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 104
+            },
+            "model": "dca/hallosign4"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 105
+            },
+            "model": "dca/hallomoon"
         }
 	]
 }

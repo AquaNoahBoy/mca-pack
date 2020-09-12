@@ -95,7 +95,7 @@
             "predicate": {
                 "custom_model_data": 16
             },
-            "model": "cosmetics/crownhat"
+            "model": "cosmetics/crown"
         },
         {
             "predicate": {
@@ -1289,7 +1289,7 @@
             "predicate": {
                 "custom_model_data": 215
             },
-            "model": "cosmetics/crown"
+            "model": "cosmetics/convertiblepack"
 		},
 		{
             "predicate": {
@@ -1332,12 +1332,6 @@
                 "custom_model_data": 222
             },
             "model": "cosmetics/captainamericabackpack"
-		},
-		{
-            "predicate": {
-                "custom_model_data": 223
-            },
-            "model": "cosmetics/convertiblepack"
 		}
 	]
 }

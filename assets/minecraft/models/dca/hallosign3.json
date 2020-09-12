@@ -1,14 +1,14 @@
 {
 	"credit": "Made for use on MCA/HP",
 	"textures": {
-		"0": "block/oogie2",
-		"particle": "block/oogie2"
+		"0": "block/oogie3",
+		"particle": "block/oogie3"
 	},
 	"elements": [
 		{
-			"from": [-16, -16, 7.4],
-			"to": [32, 32, 8.4],
-			"rotation": {"angle": 0, "axis": "y", "origin": [7.9, 0.5, 7.9]},
+			"from": [-16, -16, 7.5],
+			"to": [32, 32, 8.5],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, 0.5, 8]},
 			"faces": {
 				"north": {"uv": [0, 0, 16, 16], "texture": "#0"}
 			}
@@ -16,7 +16,7 @@
 	],
 	"display": {
 		"head": {
-			"translation": [80, 0, 0],
+			"translation": [-80, 0, 0],
 			"scale": [4, 4, 4]
 		}
 	}
