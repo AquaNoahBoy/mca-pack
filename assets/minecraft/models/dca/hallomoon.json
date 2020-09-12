@@ -1,8 +1,8 @@
 {
 	"credit": "Made for use on MCA/HP",
 	"textures": {
-		"0": "block/lantern",
-		"particle": "block/lantern"
+		"0": "block/moon",
+		"particle": "block/moon"
 	},
 	"elements": [
 		{
