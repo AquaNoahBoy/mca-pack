@@ -1,0 +1,23 @@
+{
+	"credit": "Made for use on MCA/HP",
+	"textures": {
+		"0": "block/bats1",
+		"particle": "block/bats1"
+	},
+	"elements": [
+		{
+			"from": [-9.6, -13.1, 0],
+			"to": [22.4, 24.3, 0.01],
+			"faces": {
+				"north": {"uv": [16, 0, 0, 16], "texture": "#0"},
+				"south": {"uv": [0, 0, 16, 16], "texture": "#0"}
+			}
+		}
+	],
+	"display": {
+		"head": {
+			"translation": [0.25, -3.5, 9.25],
+			"scale": [2, 2, 2]
+		}
+	}
+}

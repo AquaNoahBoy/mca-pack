@@ -642,6 +642,18 @@
                 "custom_model_data": 107
             },
             "model": "dca/hallomoon"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 108
+            },
+            "model": "dca/hallobat"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 109
+            },
+            "model": "dca/hallobat1"
         }
 	]
 }
