@@ -18,7 +18,7 @@
 		"thirdperson_righthand": {
 			"rotation": [90, 0, 0],
 			"translation": [23, 2.25, 0],
-			"scale": [3, 3, 3]
+			"scale": [4, 4, 4]
 		},
 		"head": {
 			"translation": [80, 0, 0],
