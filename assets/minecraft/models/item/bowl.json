@@ -1337,7 +1337,43 @@
             "predicate": {
                 "custom_model_data": 223
             },
-            "model": "oogiehat"
+            "model": "cosmetics/oogiehat"
+		},
+		{
+            "predicate": {
+                "custom_model_data": 224
+            },
+            "model": "cosmetics/iago"
+		},
+		{
+            "predicate": {
+                "custom_model_data": 225
+            },
+            "model": "cosmetics/maleficentstaff"
+		},
+		{
+            "predicate": {
+                "custom_model_data": 226
+            },
+            "model": "cosmetics/genielamp"
+		},
+		{
+            "predicate": {
+                "custom_model_data": 227
+            },
+            "model": "cosmetics/woodybackpack"
+		},
+		{
+            "predicate": {
+                "custom_model_data": 228
+            },
+            "model": "cosmetics/snowmancap"
+		},
+		{
+            "predicate": {
+                "custom_model_data": 229
+            },
+            "model": "cosmetics/coffinbackpack"
 		}
 	]
 }
