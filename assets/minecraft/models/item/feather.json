@@ -654,6 +654,60 @@
                 "custom_model_data": 109
             },
             "model": "dca/hallobat1"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 110
+            },
+            "model": "dca/twilight_pane1"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 111
+            },
+            "model": "dca/twilight_pane2"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 112
+            },
+            "model": "dca/twilight_pane3"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 113
+            },
+            "model": "dca/twilight_pane4"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 114
+            },
+            "model": "dca/twilight_clock"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 115
+            },
+            "model": "dca/twilight_cone"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 116
+            },
+            "model": "dca/twilight_weight"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 117
+            },
+            "model": "dca/twilight_eye"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 118
+            },
+            "model": "dca/twilight_emc"
         }
 	]
 }
