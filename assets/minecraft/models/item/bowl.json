@@ -1374,6 +1374,18 @@
                 "custom_model_data": 229
             },
             "model": "cosmetics/coffinbackpack"
+		},
+		{
+            "predicate": {
+                "custom_model_data": 230
+            },
+            "model": "cosmetics/cauldronbackpack"
+		},
+		{
+            "predicate": {
+                "custom_model_data": 231
+            },
+            "model": "cosmetics/skellingtonears"
 		}
 	]
 }

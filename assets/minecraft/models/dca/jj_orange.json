@@ -1,5 +1,5 @@
 {
-	"credit": "Made by Sean S.",
+	"credit": "Made for use on MCA/HP",
 	"textures": {
 		"0": "items/blue_concrete_jellyfish",
 		"1": "block/cyan_concrete",
@@ -2185,9 +2185,20 @@
 		}
 	],
 	"display": {
+		"ground": {
+			"translation": [0, 21, 0]
+		},
+		"gui": {
+			"rotation": [15, 154, 0],
+			"translation": [0, 3, 0],
+			"scale": [0.5, 0.5, 0.5]
+		},
 		"head": {
 			"translation": [0, 40, 0],
 			"scale": [4, 4, 4]
+		},
+		"fixed": {
+			"translation": [0, 6.75, -2]
 		}
 	},
 	"groups": [
