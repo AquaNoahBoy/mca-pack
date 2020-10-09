@@ -1,0 +1,35 @@
+{
+    "parent": "item/default_string",
+    "overrides": [
+        {
+            "predicate": {
+                "custom_model_data": 1
+            },
+            "model": "dl/gui_profile"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 2
+            },
+            "model": "dl/gui_shop"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 3
+            },
+            "model": "dl/gui_exphub"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 4
+            },
+            "model": "dl/gui_events"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 5
+            },
+            "model": "dl/gui_attractions"
+		}
+	]
+}
