@@ -744,6 +744,24 @@
                 "custom_model_data": 124
             },
             "model": "dca/genie_tail"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 125
+            },
+            "model": "dca/stitchhead"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 126
+            },
+            "model": "dca/mrincredhead"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 127
+            },
+            "model": "dca/buzzhead"
         }
 	]
 }

@@ -1386,6 +1386,36 @@
                 "custom_model_data": 231
             },
             "model": "cosmetics/skellingtonears"
+		},
+		{
+            "predicate": {
+                "custom_model_data": 232
+            },
+            "model": "cosmetics/sullybackpack"
+		},
+		{
+            "predicate": {
+                "custom_model_data": 233
+            },
+            "model": "cosmetics/heimlichbackpack"
+		},
+		{
+            "predicate": {
+                "custom_model_data": 234
+            },
+            "model": "cosmetics/thorbackpack"
+		},
+		{
+            "predicate": {
+                "custom_model_data": 235
+            },
+            "model": "cosmetics/cptnmarvelbackpack"
+		},
+		{
+            "predicate": {
+                "custom_model_data": 236
+            },
+            "model": "cosmetics/orangebird"
 		}
 	]
 }
