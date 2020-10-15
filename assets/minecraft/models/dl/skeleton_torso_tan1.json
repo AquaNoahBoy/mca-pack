@@ -1,6 +1,0 @@
-{
-   "parent": "dl/skeleton_torso_white",
-   "textures": {
-		"0": "entity/skeleton/skeleton_tan1"
-   }
-}

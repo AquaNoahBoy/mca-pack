@@ -749,19 +749,19 @@
             "predicate": {
                 "custom_model_data": 125
             },
-            "model": "dca/stitchhead"
+            "model": "heads/stitchhead"
         },
 		{
             "predicate": {
                 "custom_model_data": 126
             },
-            "model": "dca/mrincredhead"
+            "model": "heads/mrincredhead"
         },
 		{
             "predicate": {
                 "custom_model_data": 127
             },
-            "model": "dca/buzzhead"
+            "model": "heads/buzzhead"
         },
 		{
             "predicate": {
