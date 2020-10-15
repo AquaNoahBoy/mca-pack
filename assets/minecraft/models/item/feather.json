@@ -762,6 +762,12 @@
                 "custom_model_data": 127
             },
             "model": "dca/buzzhead"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 128
+            },
+            "model": "dca/oogiemap"
         }
 	]
 }
