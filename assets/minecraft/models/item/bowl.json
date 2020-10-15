@@ -1416,6 +1416,12 @@
                 "custom_model_data": 236
             },
             "model": "cosmetics/orangebird"
+		},
+		{
+            "predicate": {
+                "custom_model_data": 237
+            },
+            "model": "cosmetics/donaldbackpack"
 		}
 	]
 }
