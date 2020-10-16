@@ -1,8 +1,7 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"0": "Desktop/oogie_boogie_bash_event_map",
-		"particle": "Desktop/oogie_boogie_bash_event_map"
+		"0": "items/oogiemap"
 	},
 	"elements": [
 		{
