@@ -768,6 +768,36 @@
                 "custom_model_data": 128
             },
             "model": "dca/oogiemap"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 129
+            },
+            "model": "dca/squid_body"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 130
+            },
+            "model": "dca/squid_eye"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 131
+            },
+            "model": "dca/squid_tentacle1"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 132
+            },
+            "model": "dca/squid_tentacle2"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 133
+            },
+            "model": "dca/squid_tentacle3"
         }
 	]
 }
