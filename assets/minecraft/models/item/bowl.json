@@ -1488,6 +1488,30 @@
                 "custom_model_data": 248
             },
             "model": "cosmetics/drmchickbackpack"
+		},
+		{
+            "predicate": {
+                "custom_model_data": 249
+            },
+            "model": "cosmetics/loki"
+		},
+		{
+            "predicate": {
+                "custom_model_data": 250
+            },
+            "model": "cosmetics/pixarcap"
+		},
+		{
+            "predicate": {
+                "custom_model_data": 251
+            },
+            "model": "cosmetics/lumiere"
+		},
+		{
+            "predicate": {
+                "custom_model_data": 252
+            },
+            "model": "cosmetics/remyears"
 		}
 	]
 }
