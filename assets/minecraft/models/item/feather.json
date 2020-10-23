@@ -798,6 +798,18 @@
                 "custom_model_data": 133
             },
             "model": "dca/squid_tentacle3"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 134
+            },
+            "model": "dca/sealion"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 135
+            },
+            "model": "dca/nautilus"
         }
 	]
 }
