@@ -813,7 +813,7 @@
         },
 		{
             "predicate": {
-                "custom_model_data": 135
+                "custom_model_data": 136
             },
             "model": "dca/squid_skin"
         }
