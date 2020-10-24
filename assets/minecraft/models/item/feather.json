@@ -810,6 +810,12 @@
                 "custom_model_data": 135
             },
             "model": "dca/nautilus"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 135
+            },
+            "model": "dca/squid_skin"
         }
 	]
 }
