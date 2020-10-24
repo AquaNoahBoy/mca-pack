@@ -1518,6 +1518,12 @@
                 "custom_model_data": 253
             },
             "model": "cosmetics/divehelmet"
+		},
+		{
+            "predicate": {
+                "custom_model_data": 254
+            },
+            "model": "cosmetics/devilkronk"
 		}
 	]
 }
