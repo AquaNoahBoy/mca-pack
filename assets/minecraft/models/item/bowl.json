@@ -1524,6 +1524,24 @@
                 "custom_model_data": 254
             },
             "model": "cosmetics/devilkronk"
+		},
+		{
+            "predicate": {
+                "custom_model_data": 255
+            },
+            "model": "cosmetics/oogiebackpack"
+		},
+		{
+            "predicate": {
+                "custom_model_data": 256
+            },
+            "model": "cosmetics/vampiredoll"
+		},
+		{
+            "predicate": {
+                "custom_model_data": 257
+            },
+            "model": "cosmetics/bobafettbackpack"
 		}
 	]
 }
