@@ -1542,6 +1542,12 @@
                 "custom_model_data": 257
             },
             "model": "cosmetics/bobafettbackpack"
+		},
+		{
+            "predicate": {
+                "custom_model_data": 258
+            },
+            "model": "cosmetics/babyyoda"
 		}
 	]
 }
