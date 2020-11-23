@@ -273,6 +273,12 @@
 		},
 		{
             "predicate": {
+                "custom_model_data": 46
+            },
+            "model": "dl/pinmonstro"
+		},
+		{
+            "predicate": {
                 "custom_model_data": 47
             },
             "model": "dl/rogercart"
@@ -497,7 +503,7 @@
             "predicate": {
                 "custom_model_data": 84
             },
-            "model": "dl/iaswboat"
+            "model": "dl/potcboat_back"
 		},
 		{
             "predicate": {

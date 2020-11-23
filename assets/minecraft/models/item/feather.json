@@ -588,6 +588,66 @@
                 "custom_model_data": 98
             },
             "model": "heads/buzzhead"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 99
+            },
+            "model": "dl/wreath-mick-off"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 100
+            },
+            "model": "dl/wreath-mick-on"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 101
+            },
+            "model": "dl/wreath-st-off"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 102
+            },
+            "model": "dl/wreath-st-on"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 103
+            },
+            "model": "dl/wreath-big"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 104
+            },
+            "model": "dl/garland-s-off"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 105
+            },
+            "model": "dl/garland-s-on"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 106
+            },
+            "model": "dl/garland-l-off"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 107
+            },
+            "model": "dl/garland-l-on"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 108
+            },
+            "model": "dl/garland-m"
         }
 	]
 }
