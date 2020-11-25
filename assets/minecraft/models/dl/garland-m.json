@@ -352,8 +352,8 @@
 			"scale": [2.42, 2.42, 2.42]
 		},
 		"head": {
-			"translation": [0, 3.5, -5],
-			"scale": [2.42, 2.42, 2.42]
+			"translation": [0, 15, -5],
+			"scale": [2.8, 2.8, 2.8]
 		},
 		"fixed": {
 			"translation": [0, 11.75, 0],
