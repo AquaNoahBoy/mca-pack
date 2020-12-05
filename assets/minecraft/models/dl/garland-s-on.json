@@ -1307,7 +1307,8 @@
 			"scale": [2.64, 2.64, 2.64]
 		},
 		"fixed": {
-			"translation": [0, 5.75, 0]
+			"translation": [0, 9.75, 0],
+			"scale": [2, 2, 2.48]
 		}
 	},
 	"groups": [0,
