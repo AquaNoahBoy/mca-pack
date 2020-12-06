@@ -648,6 +648,18 @@
                 "custom_model_data": 108
             },
             "model": "dl/garland-m"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 109
+            },
+            "model": "dl/colorlight"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 110
+            },
+            "model": "dl/stagelights_angled"
         }
 	]
 }
