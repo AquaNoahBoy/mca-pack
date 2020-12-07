@@ -1,14 +1,13 @@
 {
 	"credit": "Made for use on MCA/HP",
 	"textures": {
-		"0": "1.15.2:block/nether_bricks",
-		"1": "1.15.2:block/dark_oak_planks",
-		"2": "1.15.2:block/black_concrete",
+		"0": "block/nether_bricks",
+		"1": "block/dark_oak_planks",
+		"2": "block/black_concrete",
 		"3": "items/yellow_stage",
 		"4": "items/green_stage",
 		"5": "items/blue_stage",
-		"6": "items/red_stage",
-		"particle": "1.15.2:block/nether_bricks"
+		"6": "items/red_stage"
 	},
 	"elements": [
 		{
