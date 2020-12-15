@@ -611,7 +611,7 @@
             "predicate": {
                 "custom_model_data": 102
             },
-            "model": "cosmetics/FILLER"
+            "model": "cosmetics/filler"
 		},
 		{
             "predicate": {
@@ -905,7 +905,7 @@
             "predicate": {
                 "custom_model_data": 151
             },
-            "model": "cosmetics/swimhb"
+            "model": "cosmetics/filler"
 		},
 		{
             "predicate": {
@@ -1115,7 +1115,7 @@
             "predicate": {
                 "custom_model_data": 186
             },
-            "model": "cosmetics/FILLER"
+            "model": "cosmetics/filler"
 		},
 		{
             "predicate": {

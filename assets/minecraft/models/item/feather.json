@@ -660,6 +660,12 @@
                 "custom_model_data": 110
             },
             "model": "dl/stagelights_angled"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 111
+            },
+            "model": "dl/aframe"
         }
 	]
 }
