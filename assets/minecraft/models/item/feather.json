@@ -666,6 +666,12 @@
                 "custom_model_data": 111
             },
             "model": "dl/aframe"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 112
+            },
+            "model": "dl/mst_lamp"
         }
 	]
 }
