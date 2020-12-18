@@ -611,7 +611,7 @@
             "predicate": {
                 "custom_model_data": 102
             },
-            "model": "cosmetics/filler"
+            "model": "cosmetics/christmasporg"
 		},
 		{
             "predicate": {
@@ -905,7 +905,7 @@
             "predicate": {
                 "custom_model_data": 151
             },
-            "model": "cosmetics/filler"
+            "model": "cosmetics/santapack"
 		},
 		{
             "predicate": {
@@ -1115,7 +1115,7 @@
             "predicate": {
                 "custom_model_data": 186
             },
-            "model": "cosmetics/filler"
+            "model": "cosmetics/gingerbreadhb"
 		},
 		{
             "predicate": {
@@ -1548,6 +1548,54 @@
                 "custom_model_data": 258
             },
             "model": "cosmetics/babyyoda"
+		},
+		{
+            "predicate": {
+                "custom_model_data": 259
+            },
+            "model": "cosmetics/gingerbreadman"
+		},
+		{
+            "predicate": {
+                "custom_model_data": 260
+            },
+            "model": "cosmetics/prephat"
+		},
+		{
+            "predicate": {
+                "custom_model_data": 261
+            },
+            "model": "cosmetics/christmasforky"
+		},
+		{
+            "predicate": {
+                "custom_model_data": 262
+            },
+            "model": "cosmetics/santahat"
+		},
+		{
+            "predicate": {
+                "custom_model_data": 263
+            },
+            "model": "cosmetics/turkeyhat"
+		},
+		{
+            "predicate": {
+                "custom_model_data": 264
+            },
+            "model": "cosmetics/mickeysantahat"
+		},
+		{
+            "predicate": {
+                "custom_model_data": 265
+            },
+            "model": "cosmetics/mistletoehat"
+		},
+		{
+            "predicate": {
+                "custom_model_data": 266
+            },
+            "model": "cosmetics/angelkronk"
 		}
 	]
 }
