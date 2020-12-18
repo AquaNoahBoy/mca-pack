@@ -672,6 +672,12 @@
                 "custom_model_data": 112
             },
             "model": "dl/mst_lamp"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 113
+            },
+            "model": "dl/magic_sign"
         }
 	]
 }
