@@ -678,6 +678,24 @@
                 "custom_model_data": 113
             },
             "model": "dl/magic_sign"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 114
+            },
+            "model": "dl/disneylandsign"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 115
+            },
+            "model": "dl/disneylandrrsign"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 116
+            },
+            "model": "dl/schedule"
         }
 	]
 }
