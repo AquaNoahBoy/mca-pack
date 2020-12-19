@@ -696,6 +696,60 @@
                 "custom_model_data": 116
             },
             "model": "dl/schedule"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 117
+            },
+            "model": "dl/emporium1"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 118
+            },
+            "model": "dl/emporium2"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 119
+            },
+            "model": "dl/emporium3"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 120
+            },
+            "model": "dl/emporium4"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 121
+            },
+            "model": "dl/pennyarcade1"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 122
+            },
+            "model": "dl/pennyarcade2"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 123
+            },
+            "model": "dl/pennyarcade3"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 124
+            },
+            "model": "dl/crystalarcade1"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 125
+            },
+            "model": "dl/crystalarcade2"
         }
 	]
 }
