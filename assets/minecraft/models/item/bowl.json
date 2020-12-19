@@ -1596,6 +1596,12 @@
                 "custom_model_data": 266
             },
             "model": "cosmetics/angelkronk"
+		},
+		{
+            "predicate": {
+                "custom_model_data": 267
+            },
+            "model": "cosmetics/lightshat"
 		}
 	]
 }

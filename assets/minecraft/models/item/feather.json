@@ -750,6 +750,12 @@
                 "custom_model_data": 125
             },
             "model": "dl/crystalarcade2"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 126
+            },
+            "model": "dl/mst_lampn"
         }
 	]
 }
