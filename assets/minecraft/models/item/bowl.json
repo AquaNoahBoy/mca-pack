@@ -1602,6 +1602,12 @@
                 "custom_model_data": 267
             },
             "model": "cosmetics/lightshat"
+		},
+		{
+            "predicate": {
+                "custom_model_data": 268
+            },
+            "model": "cosmetics/pepperminthb"
 		}
 	]
 }

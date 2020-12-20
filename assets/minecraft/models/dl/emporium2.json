@@ -1465,6 +1465,12 @@
 			}
 		}
 	],
+	"display": {
+		"head": {
+			"translation": [-26.75, 4.25, 2.75],
+			"scale": [2.5, 2.5, 2.5]
+		}
+	},
 	"groups": [
 		{
 			"name": "dl_mainstreet_emporium_sign_copy",

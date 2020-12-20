@@ -7198,6 +7198,12 @@
 			}
 		}
 	],
+	"display": {
+		"head": {
+			"translation": [0, 3.25, 4.5],
+			"scale": [2.5, 2.5, 2.5]
+		}
+	},
 	"groups": [
 		{
 			"name": "dl_mainstreet_emporium_sign_copy",

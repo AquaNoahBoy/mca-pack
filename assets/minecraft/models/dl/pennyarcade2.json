@@ -1450,6 +1450,12 @@
 			}
 		}
 	],
+	"display": {
+		"fixed": {
+			"translation": [7.5, 2, 0],
+			"scale": [1.5, 1.5, 1.5]
+		}
+	},
 	"groups": [
 		{
 			"name": "dl_mainstreet_pennyarcade_sign_2",

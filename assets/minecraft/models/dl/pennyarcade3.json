@@ -423,6 +423,12 @@
 			}
 		}
 	],
+	"display": {
+		"fixed": {
+			"translation": [9, -17.5, 0],
+			"scale": [1.5, 1.5, 1.5]
+		}
+	},
 	"groups": [
 		{
 			"name": "text",

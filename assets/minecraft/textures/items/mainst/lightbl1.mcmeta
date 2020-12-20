@@ -1,9 +1,5 @@
 {
-    "animation": {
-        "frames": [
-            {"index": 0, "time": 8},
-            {"index": 1, "time": 8},
-            {"index": 2, "time": 8}
-        ]
-    }
+  "animation": {
+    "frametime": 8
+  }
 }

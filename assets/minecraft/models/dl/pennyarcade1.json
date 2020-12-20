@@ -1515,6 +1515,12 @@
 			}
 		}
 	],
+	"display": {
+		"fixed": {
+			"translation": [18.75, -2.75, 0],
+			"scale": [1.5, 1.5, 1.5]
+		}
+	},
 	"groups": [
 		{
 			"name": "backboard",

@@ -2,12 +2,11 @@
 	"credit": "Made for use on MCA/HP",
 	"texture_size": [32, 32],
 	"textures": {
-		"0": "1.15.2:block/white_concrete_powder",
-		"1": "1.15.2:block/dark_prismarine",
-		"3": "1.15.2:block/campfire_fire",
-		"4": "1.15.2:block/white_stained_glass",
-		"5": "1.15.2:block/nether_bricks",
-		"particle": "1.15.2:block/white_concrete_powder"
+		"0": "block/white_concrete_powder",
+		"1": "block/dark_prismarine",
+		"3": "block/campfire_fire",
+		"4": "block/white_stained_glass",
+		"5": "block/nether_bricks"
 	},
 	"elements": [
 		{

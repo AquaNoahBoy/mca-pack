@@ -1,13 +1,13 @@
 {
 	"credit": "Made for use on MCA/HP",
 	"textures": {
-		"0": "(Updated 1.13) 3D Model Textures/red_terracotta",
-		"1": "(Updated 1.13) 3D Model Textures/green_terracotta",
-		"2": "(Updated 1.13) 3D Model Textures/white_concrete",
-		"3": "(Updated 1.13) 3D Model Textures/yellow_terracotta",
-		"4": "OneDrive/disneylandtxt",
-		"5": "OneDrive/crystalarcadetxt",
-		"particle": "(Updated 1.13) 3D Model Textures/red_terracotta"
+		"0": "block/red_terracotta",
+		"1": "block/altgreen",
+		"2": "block/white_concrete",
+		"3": "block/yellow_terracotta",
+		"4": "items/mainst/crystalbottom",
+		"5": "items/mainst/crystaltop",
+		"particle": "block/red_terracotta"
 	},
 	"elements": [
 		{

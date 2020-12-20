@@ -6002,6 +6002,12 @@
 			}
 		}
 	],
+	"display": {
+		"head": {
+			"translation": [0, 3.75, 0],
+			"scale": [2.5, 2.5, 2.5]
+		}
+	},
 	"groups": [
 		{
 			"name": "dl_mainstreet_emporium_sign_copy_2",

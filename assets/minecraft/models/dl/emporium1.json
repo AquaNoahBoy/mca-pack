@@ -8511,6 +8511,16 @@
 			}
 		}
 	],
+	"display": {
+		"thirdperson_righthand": {
+			"translation": [0, 0, 11.5],
+			"scale": [1.5, 1.5, 1.5]
+		},
+		"head": {
+			"translation": [0, 4.25, 4.75],
+			"scale": [2.5, 2.5, 2.5]
+		}
+	},
 	"groups": [
 		{
 			"name": "frame",
