@@ -593,67 +593,67 @@
             "predicate": {
                 "custom_model_data": 99
             },
-            "model": "dl/wreath-mick-off"
+            "model": "placeholder"
         },
 		{
             "predicate": {
                 "custom_model_data": 100
             },
-            "model": "dl/wreath-mick-on"
+            "model": "placeholder"
         },
 		{
             "predicate": {
                 "custom_model_data": 101
             },
-            "model": "dl/wreath-st-off"
+            "model": "placeholder"
         },
 		{
             "predicate": {
                 "custom_model_data": 102
             },
-            "model": "dl/wreath-st-on"
+            "model": "placeholder"
         },
 		{
             "predicate": {
                 "custom_model_data": 103
             },
-            "model": "dl/wreath-big"
+            "model": "placeholder"
         },
 		{
             "predicate": {
                 "custom_model_data": 104
             },
-            "model": "dl/garland-s-off"
+            "model": "placeholder"
         },
 		{
             "predicate": {
                 "custom_model_data": 105
             },
-            "model": "dl/garland-s-on"
+            "model": "placeholder"
         },
 		{
             "predicate": {
                 "custom_model_data": 106
             },
-            "model": "dl/garland-l-off"
+            "model": "placeholder"
         },
 		{
             "predicate": {
                 "custom_model_data": 107
             },
-            "model": "dl/garland-l-on"
+            "model": "placeholder"
         },
 		{
             "predicate": {
                 "custom_model_data": 108
             },
-            "model": "dl/garland-m"
+            "model": "placeholder"
         },
 		{
             "predicate": {
                 "custom_model_data": 109
             },
-            "model": "dl/colorlight"
+            "model": "placeholder"
         },
 		{
             "predicate": {
@@ -665,7 +665,7 @@
             "predicate": {
                 "custom_model_data": 111
             },
-            "model": "dl/aframe"
+            "model": "placeholder"
         },
 		{
             "predicate": {
@@ -695,7 +695,7 @@
             "predicate": {
                 "custom_model_data": 116
             },
-            "model": "dl/schedule"
+            "model": "placeholderEm"
         },
 		{
             "predicate": {
