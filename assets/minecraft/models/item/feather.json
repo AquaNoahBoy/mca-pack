@@ -756,6 +756,54 @@
                 "custom_model_data": 126
             },
             "model": "dl/mst_lampn"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 127
+            },
+            "model": "dl/iaswtrash"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 128
+            },
+            "model": "dl/tltrash"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 129
+            },
+            "model": "dl/frtrash"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 130
+            },
+            "model": "dl/fltrash"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 131
+            },
+            "model": "dl/btmsign"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 132
+            },
+            "model": "dl/dynamite"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 133
+            },
+            "model": "dl/potcsign"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 134
+            },
+            "model": "dl/horseshoesign"
         }
 	]
 }
