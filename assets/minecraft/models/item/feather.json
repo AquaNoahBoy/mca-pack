@@ -804,6 +804,12 @@
                 "custom_model_data": 134
             },
             "model": "dl/horseshoesign"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 135
+            },
+            "model": "dl/rifle"
         }
 	]
 }
