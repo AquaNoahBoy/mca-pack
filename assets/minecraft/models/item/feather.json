@@ -810,6 +810,30 @@
                 "custom_model_data": 135
             },
             "model": "dl/rifle"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 136
+            },
+            "model": "dl/btm_track_brakerun"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 137
+            },
+            "model": "dl/btm_track_broken"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 138
+            },
+            "model": "dl/btm_track"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 139
+            },
+            "model": "dl/btm_track_chain"
         }
 	]
 }
