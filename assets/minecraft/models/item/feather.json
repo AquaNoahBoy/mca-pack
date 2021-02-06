@@ -803,7 +803,7 @@
             "predicate": {
                 "custom_model_data": 134
             },
-            "model": "dl/horseshoesign"
+            "model": "dl/horseshoe"
         },
 		{
             "predicate": {
@@ -834,6 +834,114 @@
                 "custom_model_data": 139
             },
             "model": "dl/btm_track_chain"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 140
+            },
+            "model": "dl/frontiersign"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 141
+            },
+            "model": "dl/frontierlamp"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 142
+            },
+            "model": "dl/oldminecart"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 143
+            },
+            "model": "dl/posters/alice"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 144
+            },
+            "model": "dl/posters/dlrr"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 145
+            },
+            "model": "dl/posters/hm"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 146
+            },
+            "model": "dl/posters/indy"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 147
+            },
+            "model": "dl/posters/jc"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 148
+            },
+            "model": "dl/posters/mh"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 149
+            },
+            "model": "dl/posters/mnrl"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 150
+            },
+            "model": "dl/posters/mrtoad"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 151
+            },
+            "model": "dl/posters/nemo"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 152
+            },
+            "model": "dl/posters/pirates"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 153
+            },
+            "model": "dl/posters/sm"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 154
+            },
+            "model": "dl/posters/st1"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 155
+            },
+            "model": "dl/posters/st2"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 156
+            },
+            "model": "dl/photosupply"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 157
+            },
+            "model": "dl/refreshcorner"
         }
 	]
 }
