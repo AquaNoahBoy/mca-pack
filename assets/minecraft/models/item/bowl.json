@@ -1608,6 +1608,42 @@
                 "custom_model_data": 268
             },
             "model": "cosmetics/pepperminthb"
+		},
+		{
+            "predicate": {
+                "custom_model_data": 269
+            },
+            "model": "cosmetics/soul"
+		},
+		{
+            "predicate": {
+                "custom_model_data": 270
+            },
+            "model": "cosmetics/racoonhat"
+		},
+		{
+            "predicate": {
+                "custom_model_data": 271
+            },
+            "model": "cosmetics/longhornhat"
+		},
+		{
+            "predicate": {
+                "custom_model_data": 272
+            },
+            "model": "cosmetics/minnie_ears"
+		},
+		{
+            "predicate": {
+                "custom_model_data": 273
+            },
+            "model": "cosmetics/beaver"
+		},
+		{
+            "predicate": {
+                "custom_model_data": 273
+            },
+            "model": "cosmetics/tntbarrel"
 		}
 	]
 }

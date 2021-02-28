@@ -17,25 +17,25 @@
             "predicate": {
                 "custom_model_data": 3
             },
-            "model": "dca/ic1"
+            "model": "placeholder"
         },
         {
             "predicate": {
                 "custom_model_data": 4
             },
-            "model": "dca/ic2"
+            "model": "placeholder"
         },
         {
             "predicate": {
                 "custom_model_data": 5
             },
-            "model": "dca/ic3"
+            "model": "placeholder"
         },
         {
             "predicate": {
                 "custom_model_data": 6
             },
-            "model": "dca/ic4"
+            "model": "placeholder"
         },
         {
             "predicate": {

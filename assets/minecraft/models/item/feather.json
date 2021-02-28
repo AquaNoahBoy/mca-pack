@@ -293,9 +293,9 @@
             "predicate": {
                 "custom_model_data": 49
             },
-            "model": "dca/fig1"
+            "model": "dl/vulture"
         },
-				{
+		{
             "predicate": {
                 "custom_model_data": 50
             },
@@ -593,67 +593,67 @@
             "predicate": {
                 "custom_model_data": 99
             },
-            "model": "placeholder"
+            "model": "dl/smpylon1"
         },
 		{
             "predicate": {
                 "custom_model_data": 100
             },
-            "model": "placeholder"
+            "model": "dl/smpylon2"
         },
 		{
             "predicate": {
                 "custom_model_data": 101
             },
-            "model": "placeholder"
+            "model": "dl/smpylon3"
         },
 		{
             "predicate": {
                 "custom_model_data": 102
             },
-            "model": "placeholder"
+            "model": "dl/smpylon4"
         },
 		{
             "predicate": {
                 "custom_model_data": 103
             },
-            "model": "placeholder"
+            "model": "dl/smsign"
         },
 		{
             "predicate": {
                 "custom_model_data": 104
             },
-            "model": "placeholder"
+            "model": "dl/bone"
         },
 		{
             "predicate": {
                 "custom_model_data": 105
             },
-            "model": "placeholder"
+            "model": "dl/bone_ribs"
         },
 		{
             "predicate": {
                 "custom_model_data": 106
             },
-            "model": "placeholder"
+            "model": "dl/bone_neck"
         },
 		{
             "predicate": {
                 "custom_model_data": 107
             },
-            "model": "placeholder"
+            "model": "dl/bone_tail_1"
         },
 		{
             "predicate": {
                 "custom_model_data": 108
             },
-            "model": "placeholder"
+            "model": "dl/bone_tail_2"
         },
 		{
             "predicate": {
                 "custom_model_data": 109
             },
-            "model": "placeholder"
+            "model": "dl/dinosaur_skull"
         },
 		{
             "predicate": {
@@ -665,7 +665,7 @@
             "predicate": {
                 "custom_model_data": 111
             },
-            "model": "placeholder"
+            "model": "dl/refreshcorner"
         },
 		{
             "predicate": {
@@ -695,7 +695,7 @@
             "predicate": {
                 "custom_model_data": 116
             },
-            "model": "placeholderEm"
+            "model": "dl/photosupply"
         },
 		{
             "predicate": {
@@ -935,13 +935,31 @@
             "predicate": {
                 "custom_model_data": 156
             },
-            "model": "dl/photosupply"
+            "model": "dl/posters/tarzan"
         },
 		{
             "predicate": {
                 "custom_model_data": 157
             },
-            "model": "dl/refreshcorner"
+            "model": "dl/posters/autopia"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 158
+            },
+            "model": "dl/posters/hideaway"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 159
+            },
+            "model": "dl/opossum"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 160
+            },
+            "model": "dl/tradingco"
         }
 	]
 }
