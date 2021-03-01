@@ -960,6 +960,36 @@
                 "custom_model_data": 160
             },
             "model": "dl/tradingco"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 161
+            },
+            "model": "dl/btm_track_broken2
+        },
+		{
+            "predicate": {
+                "custom_model_data": 162
+            },
+            "model": "dl/btm_track_switch"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 163
+            },
+            "model": "dl/btm_track_chain2"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 164
+            },
+            "model": "dl/btm_goat1"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 165
+            },
+            "model": "dl/btm_goat2"
         }
 	]
 }
