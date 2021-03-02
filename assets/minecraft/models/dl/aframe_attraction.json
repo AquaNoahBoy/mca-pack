@@ -1,0 +1,7 @@
+{
+	"credit": "Made for use on MCA/HP",
+	"parent": "dl/aframe_disclaimer",
+	"textures": {
+		"2": "items/attraction"
+	}
+}

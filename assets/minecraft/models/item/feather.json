@@ -990,6 +990,30 @@
                 "custom_model_data": 165
             },
             "model": "dl/btm_goat2"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 166
+            },
+            "model": "dl/aframe_disclaimer"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 167
+            },
+            "model": "dl/aframe_entrance"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 168
+            },
+            "model": "dl/aframe_attraction"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 168
+            },
+            "model": "dl/shootingsign"
         }
 	]
 }
