@@ -1011,7 +1011,43 @@
         },
 		{
             "predicate": {
-                "custom_model_data": 168
+                "custom_model_data": 169
+            },
+            "model": "dl/stagedoor"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 170
+            },
+            "model": "dl/fr_train"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 171
+            },
+            "model": "dl/cactus"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 172
+            },
+            "model": "dl/pioneer"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 173
+            },
+            "model": "dl/wheel"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 174
+            },
+            "model": "dl/boothill"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 175
             },
             "model": "dl/shootingsign"
         }

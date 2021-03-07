@@ -1631,19 +1631,13 @@
             "predicate": {
                 "custom_model_data": 272
             },
-            "model": "cosmetics/minnie_ears"
+            "model": "cosmetics/tntbarrel"
 		},
 		{
             "predicate": {
                 "custom_model_data": 273
             },
             "model": "cosmetics/beaver"
-		},
-		{
-            "predicate": {
-                "custom_model_data": 274
-            },
-            "model": "cosmetics/tntbarrel"
 		}
 	]
 }
