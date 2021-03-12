@@ -1050,6 +1050,54 @@
                 "custom_model_data": 175
             },
             "model": "dl/shootingsign"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 176
+            },
+            "model": "dl/crow"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 177
+            },
+            "model": "dl/tombstone_noah"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 178
+            },
+            "model": "dl/tombstone_aaron"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 179
+            },
+            "model": "dl/tombstone_scop"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 180
+            },
+            "model": "dl/tombstone_speed"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 181
+            },
+            "model": "dl/tombstone_travis"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 182
+            },
+            "model": "dl/tombstone_jason"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 183
+            },
+            "model": "dl/tombstone_joe"
         }
 	]
 }
