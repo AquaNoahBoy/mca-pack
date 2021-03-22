@@ -1013,7 +1013,7 @@
             "predicate": {
                 "custom_model_data": 169
             },
-            "model": "dl/stagedoor"
+            "model": "dl/placeholder"
         },
 		{
             "predicate": {
@@ -1098,6 +1098,48 @@
                 "custom_model_data": 183
             },
             "model": "dl/tombstone_joe"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 184
+            },
+            "model": "dl/hiddenmickey_1"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 185
+            },
+            "model": "dl/hiddenmickey_2"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 186
+            },
+            "model": "dl/hiddenmickey_3"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 187
+            },
+            "model": "dl/hiddenmickey_4"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 188
+            },
+            "model": "dl/hiddenmickey_5"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 189
+            },
+            "model": "dl/hiddenmickey_6"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 190
+            },
+            "model": "dl/hiddenmickey_7"
         }
 	]
 }

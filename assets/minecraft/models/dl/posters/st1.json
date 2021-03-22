@@ -1,0 +1,6 @@
+{
+   "parent": "dl/posters/mh",
+   "textures": {
+		"1": "items/posters/st1"
+   }
+}
