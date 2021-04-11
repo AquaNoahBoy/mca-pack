@@ -1638,6 +1638,12 @@
                 "custom_model_data": 273
             },
             "model": "cosmetics/beaver"
+		},
+		{
+            "predicate": {
+                "custom_model_data": 273
+            },
+            "model": "dl/gun"
 		}
 	]
 }

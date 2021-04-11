@@ -3,7 +3,7 @@
 	"textures": {
 		"3": "block/observer_top",
 		"4": "items/frtrash",
-		"11": "block/oak_planks"
+		"11": "block/oak_plank"
 	},
 	"elements": [
 		{
