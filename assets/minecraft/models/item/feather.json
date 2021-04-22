@@ -1140,6 +1140,12 @@
                 "custom_model_data": 190
             },
             "model": "dl/hiddenmickey_7"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 191
+            },
+            "model": "dca/sillysymphony"
         }
 	]
 }
