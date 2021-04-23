@@ -2,15 +2,14 @@
 	"credit": "Made with Blockbench",
 	"texture_size": [256, 256],
 	"textures": {
-		"0": "Yeti Textures/hair",
-		"1": "Yeti Textures/head-front",
-		"2": "Yeti Textures/gums",
-		"3": "Yeti Textures/black_concrete",
-		"4": "Yeti Textures/nose",
-		"6": "Yeti Textures/lip-front",
-		"7": "Yeti Textures/lip-top",
-		"8": "Yeti Textures/teeth",
-		"particle": "Yeti Textures/hair"
+		"0": "heads/yhair",
+		"1": "heads/yhead-front",
+		"2": "heads/ygums",
+		"3": "heads/yblack_concrete",
+		"4": "heads/ynose",
+		"6": "heads/ylip-front",
+		"7": "heads/ylip-top",
+		"8": "heads/yteeth"
 	},
 	"elements": [
 		{

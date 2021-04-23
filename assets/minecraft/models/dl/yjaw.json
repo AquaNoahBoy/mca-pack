@@ -2,11 +2,10 @@
 	"credit": "Made with Blockbench",
 	"texture_size": [256, 256],
 	"textures": {
-		"0": "Yeti Textures/hair",
-		"2": "Yeti Textures/gums",
-		"5": "Yeti Textures/tongue",
-		"8": "Yeti Textures/teeth",
-		"particle": "Yeti Textures/hair"
+		"0": "heads/yhair",
+		"2": "heads/ygums",
+		"5": "heads/ytongue",
+		"8": "heads/yteeth"
 	},
 	"elements": [
 		{

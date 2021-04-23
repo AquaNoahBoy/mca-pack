@@ -2,9 +2,8 @@
 	"credit": "Made with Blockbench",
 	"texture_size": [256, 256],
 	"textures": {
-		"9": "Yeti Textures/hand",
-		"10": "Yeti Textures/finger",
-		"particle": "Yeti Textures/hair"
+		"9": "heads/yhand",
+		"10": "heads/yfinger"
 	},
 	"elements": [
 		{

@@ -17,8 +17,7 @@
 		"14": "block/stone",
 		"15": "block/white_stained_glass",
 		"16": "block/white_stained_glass_pane_top",
-		"top": "block/oak_planks",
-		"particle": "block/white_stained_glass"
+		"top": "block/oak_planks"
 	},
 	"elements": [
 		{

@@ -1146,6 +1146,18 @@
                 "custom_model_data": 191
             },
             "model": "dca/sillysymphony"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 192
+            },
+            "model": "dca/pptrash"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 193
+            },
+            "model": "dl/dlplaque"
         }
 	]
 }
