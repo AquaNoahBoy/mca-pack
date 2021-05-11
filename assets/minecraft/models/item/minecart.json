@@ -654,6 +654,18 @@
                 "custom_model_data": 109
             },
             "model": "dl/marktwain_fr"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 110
+            },
+            "model": "dca/sillyseat"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 111
+            },
+            "model": "dca/sillychain"
         }
     ]
 }

@@ -1194,6 +1194,18 @@
                 "custom_model_data": 199
             },
             "model": "dl/yarm"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 200
+            },
+            "model": "dl/lincolnsign"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 201
+            },
+            "model": "dl/clock"
         }
 	]
 }
