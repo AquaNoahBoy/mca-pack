@@ -4,8 +4,7 @@
 		"1": "block/quartz_block_bottom",
 		"2": "block/black_terracotta",
 		"3": "items/clock",
-		"4": "block/bone_block_side",
-		"particle": "block/bone_block_side"
+		"4": "block/bone_block_side"
 	},
 	"elements": [
 		{

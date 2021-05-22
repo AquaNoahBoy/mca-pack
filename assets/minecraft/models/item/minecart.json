@@ -666,6 +666,18 @@
                 "custom_model_data": 111
             },
             "model": "dca/sillychain"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 112
+            },
+            "model": "dl/btm_lapbar"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 113
+            },
+            "model": "dl/btm_wheel"
         }
     ]
 }

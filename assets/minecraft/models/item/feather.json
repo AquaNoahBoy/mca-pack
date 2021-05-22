@@ -1206,6 +1206,24 @@
                 "custom_model_data": 201
             },
             "model": "dl/clock"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 202
+            },
+            "model": "dca/tentacle1"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 203
+            },
+            "model": "dca/tentacle2"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 204
+            },
+            "model": "dl/temp"
         }
 	]
 }
