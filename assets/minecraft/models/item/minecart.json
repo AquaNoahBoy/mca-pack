@@ -29,13 +29,13 @@
             "predicate": {
                 "custom_model_data": 5
             },
-            "model": "placeholder"
+            "model": "dl/btm_lapbar"
         },
         {
             "predicate": {
                 "custom_model_data": 6
             },
-            "model": "placeholder"
+            "model": "dl/btm_wheel"
         },
         {
             "predicate": {
@@ -666,18 +666,6 @@
                 "custom_model_data": 111
             },
             "model": "dca/sillychain"
-        },
-		{
-            "predicate": {
-                "custom_model_data": 112
-            },
-            "model": "dl/btm_lapbar"
-        },
-		{
-            "predicate": {
-                "custom_model_data": 113
-            },
-            "model": "dl/btm_wheel"
         }
     ]
 }

@@ -1641,9 +1641,15 @@
 		},
 		{
             "predicate": {
-                "custom_model_data": 273
+                "custom_model_data": 274
             },
             "model": "dl/gun"
+		},
+		{
+            "predicate": {
+                "custom_model_data": 275
+            },
+            "model": "cosmetics/prideflag"
 		}
 	]
 }
