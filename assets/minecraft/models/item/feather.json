@@ -1223,7 +1223,13 @@
             "predicate": {
                 "custom_model_data": 204
             },
-            "model": "dl/temp"
+            "model": "dl/esplanadetrash"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 205
+            },
+            "model": "dl/mainsttrash"
         }
 	]
 }
