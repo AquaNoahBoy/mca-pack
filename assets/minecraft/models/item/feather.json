@@ -1230,6 +1230,252 @@
                 "custom_model_data": 205
             },
             "model": "dl/mainsttrash"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 206
+            },
+            "model": "dl/spiderman_head"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 207
+            },
+            "model": "dl/spiderman_body"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 208
+            },
+            "model": "dl/spiderman_larm"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 209
+            },
+            "model": "dl/spiderman_rarm"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 210
+            },
+            "model": "dca/spiderman_lleg"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 211
+            },
+            "model": "dca/spiderman_rleg"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 212
+            },
+            "model": "dca/dcasign_1"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 213
+            },
+            "model": "dca/dcasign_2"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 214
+            },
+            "model": "dca/dcasign_3"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 215
+            },
+            "model": "dca/ariel_spinner"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 216
+            },
+            "model": "dca/seb_head"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 217
+            },
+            "model": "dca/seb_torso"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 218
+            },
+            "model": "dca/seb_shell"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 219
+            },
+            "model": "dca/seb_claw"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 220
+            },
+            "model": "dca/seb_head2"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 221
+            },
+            "model": "dca/scuttle_accordian"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 222
+            },
+            "model": "dca/scuttle_body"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 223
+            },
+            "model": "dca/scuttle_bodyfinal"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 224
+            },
+            "model": "dca/scuttle_head"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 225
+            },
+            "model": "dca/scuttle_leftarm"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 226
+            },
+            "model": "dca/scuttle_rightarm"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 227
+            },
+            "model": "dca/rowboat"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 228
+            },
+            "model": "dca/rowboatoar"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 229
+            },
+            "model": "dca/rowboatfull"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 230
+            },
+            "model": "dca/seahorse1"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 231
+            },
+            "model": "dca/seahorse2"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 232
+            },
+            "model": "dca/seahorse3"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 233
+            },
+            "model": "dca/octo_arm"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 234
+            },
+            "model": "dca/octo_head"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 235
+            },
+            "model": "dca/redlobster"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 236
+            },
+            "model": "dca/bluelobster_arms"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 237
+            },
+            "model": "dca/bluelobster_body"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 238
+            },
+            "model": "dca/eel_body"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 239
+            },
+            "model": "dca/eel_head"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 240
+            },
+            "model": "dca/eel_jaw"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 241
+            },
+            "model": "dl/wecrate"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 242
+            },
+            "model": "dl/hungrybear"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 243
+            },
+            "model": "dl/ppcroc_head"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 244
+            },
+            "model": "dl/ppcroc_mouth"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 245
+            },
+            "model": "dl/ppcroc_mouthtop"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 246
+            },
+            "model": "dl/poohdoor"
         }
 	]
 }

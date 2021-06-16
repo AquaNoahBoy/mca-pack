@@ -1,6 +1,7 @@
 {
 	"parent": "dca/arielcart",
-	"textures":{
-		"voxels_palette": "items/arielcart2"
+	"textures": {
+		"5": "block/white_terracotta",
+		"8": "block/jungle_door_top"
 	}
 }
