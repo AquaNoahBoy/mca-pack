@@ -2,10 +2,10 @@
 	"credit": "Made with Blockbench",
 	"texture_size": [256, 256],
 	"textures": {
-		"0": "heads/yhair",
-		"2": "heads/ygums",
-		"5": "heads/ytongue",
-		"8": "heads/yteeth"
+		"0": "items/heads/yhair",
+		"2": "items/heads/ygums",
+		"5": "items/heads/ytongue",
+		"8": "items/heads/yteeth"
 	},
 	"elements": [
 		{

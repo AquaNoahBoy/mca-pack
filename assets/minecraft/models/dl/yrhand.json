@@ -2,8 +2,8 @@
 	"credit": "Made with Blockbench",
 	"texture_size": [256, 256],
 	"textures": {
-		"9": "heads/yhand",
-		"10": "heads/yfinger"
+		"9": "items/heads/yhand",
+		"10": "items/heads/yfinger"
 	},
 	"elements": [
 		{

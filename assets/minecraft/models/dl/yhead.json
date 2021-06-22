@@ -2,14 +2,14 @@
 	"credit": "Made with Blockbench",
 	"texture_size": [256, 256],
 	"textures": {
-		"0": "heads/yhair",
-		"1": "heads/yhead-front",
-		"2": "heads/ygums",
-		"3": "heads/yblack_concrete",
-		"4": "heads/ynose",
-		"6": "heads/ylip-front",
-		"7": "heads/ylip-top",
-		"8": "heads/yteeth"
+		"0": "items/heads/yhair",
+		"1": "items/heads/yhead-front",
+		"2": "items/heads/ygums",
+		"3": "items/heads/yblack_concrete",
+		"4": "items/heads/ynose",
+		"6": "items/heads/ylip-front",
+		"7": "items/heads/ylip-top",
+		"8": "items/heads/yteeth"
 	},
 	"elements": [
 		{

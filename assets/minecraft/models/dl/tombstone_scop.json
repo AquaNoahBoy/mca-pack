@@ -2,8 +2,7 @@
 	"credit": "Made with Blockbench",
 	"textures": {
 		"1": "block/anvil",
-		"2": "items/scop_tomb",
-		"particle": "block/scop_tomb"
+		"2": "items/scop_tomb"
 	},
 	"elements": [
 		{

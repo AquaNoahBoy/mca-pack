@@ -1235,25 +1235,25 @@
             "predicate": {
                 "custom_model_data": 206
             },
-            "model": "dl/spiderman_head"
+            "model": "dca/spiderman_head"
         },
 		{
             "predicate": {
                 "custom_model_data": 207
             },
-            "model": "dl/spiderman_body"
+            "model": "dca/spiderman_body"
         },
 		{
             "predicate": {
                 "custom_model_data": 208
             },
-            "model": "dl/spiderman_larm"
+            "model": "dca/spiderman_larm"
         },
 		{
             "predicate": {
                 "custom_model_data": 209
             },
-            "model": "dl/spiderman_rarm"
+            "model": "dca/spiderman_rarm"
         },
 		{
             "predicate": {
@@ -1476,6 +1476,18 @@
                 "custom_model_data": 246
             },
             "model": "dl/poohdoor"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 247
+            },
+            "model": "dca/arielsign2"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 248
+            },
+            "model": "dl/bigben"
         }
 	]
 }

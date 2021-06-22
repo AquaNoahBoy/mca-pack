@@ -2,7 +2,7 @@
 	"credit": "Made with Blockbench",
 	"texture_size": [256, 256],
 	"textures": {
-		"0": "heads/yhair"
+		"0": "items/heads/yhair"
 	},
 	"elements": [
 		{
