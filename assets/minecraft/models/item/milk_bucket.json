@@ -1,0 +1,35 @@
+{
+    "parent": "item/default_milk_bucket",
+    "overrides": [
+        {
+            "predicate": {
+                "custom_model_data": 1
+            },
+            "model": "food/water"
+        },
+		 {
+            "predicate": {
+                "custom_model_data": 2
+            },
+            "model": "food/smoothie1"
+        },
+		 {
+            "predicate": {
+                "custom_model_data": 3
+            },
+            "model": "food/smoothie2"
+        },
+		 {
+            "predicate": {
+                "custom_model_data": 4
+            },
+            "model": "food/smoothie3"
+        },
+		 {
+            "predicate": {
+                "custom_model_data": 5
+            },
+            "model": "food/smoothie4"
+        }
+    ]
+}

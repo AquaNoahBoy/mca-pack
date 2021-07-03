@@ -1,0 +1,6 @@
+{
+   "parent": "food/scoop_vanilla",
+   "textures": {
+		"1": "items/food/scoop_str"
+   }
+}

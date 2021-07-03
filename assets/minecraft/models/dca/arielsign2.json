@@ -1,8 +1,8 @@
 {
 	"credit": "Made for use on MCA/HP",
 	"textures": {
-		"0": "models/arielsign1",
-		"1": "models/arielsign2",
+		"0": "items/arielsign1",
+		"1": "items/arielsign2",
 		"2": "block/beehive_side",
 		"3": "block/prismarine_bricks",
 		"4": "block/white_concrete",

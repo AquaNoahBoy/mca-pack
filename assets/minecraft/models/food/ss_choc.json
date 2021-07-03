@@ -1,0 +1,6 @@
+{
+   "parent": "food/ss_vanilla",
+   "textures": {
+		"1": "items/food/ss_choc"
+   }
+}

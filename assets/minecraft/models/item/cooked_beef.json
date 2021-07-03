@@ -1,0 +1,113 @@
+{
+    "parent": "item/default_steak",
+    "overrides": [
+        {
+            "predicate": {
+                "custom_model_data": 1
+            },
+            "model": "food/churro"
+        },
+		 {
+            "predicate": {
+                "custom_model_data": 2
+            },
+            "model": "food/dolewhip"
+        },
+		 {
+            "predicate": {
+                "custom_model_data": 3
+            },
+            "model": "food/icecreamsnd"
+        },
+		 {
+            "predicate": {
+                "custom_model_data": 4
+            },
+            "model": "food/mickeybar"
+        },
+		 {
+            "predicate": {
+                "custom_model_data": 5
+            },
+            "model": "food/numnum"
+        },
+		 {
+            "predicate": {
+                "custom_model_data": 6
+            },
+            "model": "food/pickle"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 7
+            },
+            "model": "food/pop_empty"
+        },
+		 {
+            "predicate": {
+                "custom_model_data": 8
+            },
+            "model": "food/pop_full"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 9
+            },
+            "model": "food/scoop_choc"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 10
+            },
+            "model": "food/scoop_mintc"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 11
+            },
+            "model": "food/scoop_str"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 12
+            },
+            "model": "food/scoop_vanilla"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 13
+            },
+            "model": "food/shawarma"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 14
+            },
+            "model": "food/shawarma1"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 15
+            },
+            "model": "food/ss_choc"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 16
+            },
+            "model": "food/ss_swirl"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 17
+            },
+            "model": "food/ss_vanilla"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 18
+            },
+            "model": "food/turkeyleg"
+        }
+    ]
+}

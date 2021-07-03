@@ -1,0 +1,6 @@
+{
+   "parent": "food/smoothie1",
+   "textures": {
+		"1": "items/food/smoothie3"
+   }
+}

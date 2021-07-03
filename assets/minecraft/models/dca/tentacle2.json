@@ -1,30 +1,37 @@
 {
-	"credit": "Made for use on MCA/HP",
+	"credit": "Made with Blockbench",
 	"texture_size": [256, 256],
 	"textures": {
-		"0": "items/genie/body",
-		"2": "items/genie/cups",
-		"particle": "items/genie/body"
+		"0": "items/body",
+		"2": "items/cups",
+		"particle": "items/body"
 	},
 	"elements": [
 		{
 			"from": [5.5, 0, 6.5],
-			"to": [10.5, 12, 10.5],
+			"to": [10.5, 5, 10.5],
 			"rotation": {"angle": 0, "axis": "y", "origin": [13.5, 8, 14.5]},
 			"faces": {
-				"north": {"uv": [0, 0, 16, 16], "texture": "#2"},
-				"east": {"uv": [0, 0, 5.25, 15.75], "texture": "#0"},
-				"south": {"uv": [0, 0, 6.5625, 15.75], "texture": "#0"},
-				"west": {"uv": [0, 0, 5.25, 15.75], "texture": "#0"},
-				"up": {"uv": [0, 0, 15.625, 12.5], "texture": "#0"},
-				"down": {"uv": [0, 0, 15.625, 12.5], "texture": "#0"}
+				"north": {"uv": [0, 10, 16, 16], "texture": "#2"},
+				"east": {"uv": [7, 0, 11, 5], "texture": "#0"},
+				"south": {"uv": [2, 0, 7, 5], "texture": "#0"},
+				"west": {"uv": [0, 0, 4, 9], "texture": "#0"},
+				"up": {"uv": [0, 0, 1, 1], "texture": "#0"},
+				"down": {"uv": [0, 0, 1, 1], "texture": "#0"}
 			}
 		}
 	],
 	"display": {
+		"thirdperson_righthand": {
+			"scale": [1.47, 1.47, 1.47]
+		},
 		"gui": {
 			"rotation": [0, -180, 0],
 			"translation": [0, 1.5, 0]
+		},
+		"head": {
+			"translation": [0, 8.25, 0],
+			"scale": [3, 3, 3]
 		}
 	}
 }

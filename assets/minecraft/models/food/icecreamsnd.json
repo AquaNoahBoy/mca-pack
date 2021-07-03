@@ -1,8 +1,7 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"voxels_palette": "items/apple",
-		"particle": "block/brown_wool"
+		"voxels_palette": "items/food/icecreamsnd"
 	},
 	"elements": [
 		{

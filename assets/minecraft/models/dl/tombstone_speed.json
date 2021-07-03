@@ -2,8 +2,7 @@
 	"credit": "Made with Blockbench",
 	"textures": {
 		"1": "block/stripped_dark_oak_log",
-		"2": "items/speed_tomb",
-		"particle": "block/speed_tomb"
+		"2": "items/speed_tomb"
 	},
 	"elements": [
 		{

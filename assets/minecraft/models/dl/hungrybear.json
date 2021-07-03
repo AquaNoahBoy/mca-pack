@@ -1,9 +1,9 @@
 {
 	"credit": "Made for use on MCA/HP",
 	"textures": {
-		"0": "items/hbear",
-		"1": "items/hbear1",
-		"2": "items/hbear2",
+		"0": "items/hbear1",
+		"1": "items/hbear2",
+		"2": "items/hbear3",
 		"3": "block/darkk"
 	},
 	"elements": [
