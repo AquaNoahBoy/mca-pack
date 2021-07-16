@@ -1,5 +1,5 @@
 {
-    "parent": "item/default_steak",
+    "parent": "item/default_cooked_beef",
     "overrides": [
         {
             "predicate": {
